@@ -21,7 +21,7 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Dragon of Eve fractals with polyhedra</h2>
 Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named after Jeffrey's mother's art teacher. One way that the Dragon of Eve is different than the classic Dragon Curve is that it has varying lengths in its segments, owing to the fact that the middle segment in the generator has length equal to &radic;2, while the other segments have length 1. 
-<center><img src="ar/0A.png" class="foto" alt=" Dragon of Eve fractal"></center>
+<center><img src="ar/0A.png" style="max-width: 50%;" alt=" Dragon of Eve fractal"></center>
 <br>This work shows Dragon of Eve fractals with polyhedra, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>

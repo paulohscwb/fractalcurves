@@ -21,7 +21,7 @@ function urlHandler(value) {
 <p id="p1"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Fractais Dragão de Eva com poliedros</h2>
   A Curva do Dragão de Eva foi descoberta por Jeffrey Ventrella na década de 1980, e recebeu esse nome em homenagem à professora de arte de sua mãe. Uma das diferenças entre o Dragão de Eva e a Curva do Dragão clássica é a variação no comprimento de seus segmentos, devido ao fato de o segmento central do gerador ter comprimento igual a &radic;2, enquanto os demais segmentos têm comprimento igual a 1.
-  <center><img src="../ar/0A.png" class="foto" alt="fractal dragão de Eva"></center>
+  <center><img src="../ar/0A.png" alt="fractal dragão de Eva" style="max-width: 50%;"></center>
 <br>Este trabalho mostra fractais dragão de Eva com poliedros, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
@@ -410,7 +410,6 @@ function urlHandler(value) {
 <a href="../vr/curve75.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/75A.png" class="foto" alt="fractal dragão de Eva de Dodecaedro heptagonal"></a>
  <br>Fractal dragão de Eva do dodecaedro heptagonal.
  <br>
-<hr>
 <hr>
 <h4>76. Dodecaedro heptagonal</h4>
 <a href="../vr/curve76.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/76A.png" class="foto" alt="fractal dragão de Eva de Dodecaedro heptagonal"></a>
