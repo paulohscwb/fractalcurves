@@ -7,7 +7,7 @@
 <br><a href="https://paulohscwb.github.io/fractalcurves/dragoneve/">english version</a>
 <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
-		<option disabled selected>Mais sólidos:</option>
+		<option disabled selected>Mais fractais:</option>
 		<option disabled value="../../dragoneve/pt-br/">Dragão de Eva</option>
 		<!--<option value="../../et/pt-br/">Curva do E.T., o extra-terrestre</option>-->
 	</select>
@@ -25,7 +25,7 @@ function urlHandler(value) {
 <br>Este trabalho mostra fractais dragão de Eva com poliedros, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>
 <hr>
-  <p align="center"><img src="../vr/salas/videos/curve1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="VR immersive fractals"/><img src="../vr/salas/videos/curve2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="VR immersive fractals"/></p> 
+  <p align="center"><img src="../vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive fractals"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->

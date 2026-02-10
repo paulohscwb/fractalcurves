@@ -7,7 +7,7 @@
  <br><a href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/">versão em português</a>
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
-		<option disabled selected value>More solids:</option>
+		<option disabled selected value>More fractals:</option>
 		<option value="../dragoneve/">Dragon of Eve</option>
 		<!--<option value="../et/">E.T. the extra-terrestrial curve</option>-->
 	</select>
@@ -25,7 +25,7 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <br>This work shows Dragon of Eve fractals with polyhedra, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
 <hr>
- <p align="center"><img src="vr/salas/videos/curve1.gif" style="max-width: 45%; border-radius:5px; margin-right:15px" loading="lazy" alt="RV de fractais"/><img src="vr/salas/videos/curve2.gif" style="max-width: 45%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
+ <p align="center"><img src="vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->

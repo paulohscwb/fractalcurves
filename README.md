@@ -20,7 +20,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra3/dragon-nonconvex/"><img src="https://paulohscwb.github.io/polyhedra3/dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon fractals of non-convex polyhedra</a></h3>
 <hr>
 <h3 align="center">Virtual Reality</h3>
-<p align="center"><img src="dragoneve/vr/salas/videos/dragoneve1.gif" style="max-width: 47%; border-radius:5px; margin-right:10px" loading="lazy"/><img src="dragoneve/vr/salas/videos/dragoneve2.gif" style="max-width: 47%; border-radius:5px;" loading="lazy"/></p>
+<p align="center"><img src="dragoneve/vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 <h3 align="center">3D models</h3>
 <p align="center"><img src="dragoneve/ar/example.png" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p>
 <hr>
