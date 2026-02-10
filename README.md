@@ -6,7 +6,7 @@
  <br><b>contact:</b> <a href="#">paulohscwb@gmail.com</a>
  <br><a href="https://paulohscwb.github.io/fractalcurves/pt-br/">versão em português</a>
  <div><img align="right" src="imagens/qr.png"/>
- <br><br>In this work, the 3D models of fractal curves com poliedros can be seen in Virtual Reality (VR) and Augmented Reality (AR).</div>
+ <br><br>In this work, the 3D models of fractal curves with polyhedra can be seen in Virtual Reality (VR) and Augmented Reality (AR).</div>
 <hr>
 <h2>New fractal curves models</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="dragoneve/"><img src="dragoneve/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon of Eve</a></h3>
