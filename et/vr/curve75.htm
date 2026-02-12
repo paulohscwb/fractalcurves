@@ -14,14 +14,14 @@
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<a-mixin id="p1a" position="-2.12 1.06 0" mixin="sc" rotation="0 0 90"></a-mixin>
-			<a-mixin id="p2a" position="-1.06 2.12 0" mixin="sc" rotation="0 0 0"></a-mixin>
-			<a-mixin id="p3a" position="0 1.06 0" mixin="sc" rotation="0 0 90"></a-mixin>
-			<a-mixin id="p4a" position="1.06 0 0" mixin="sc" rotation="0 0 0"></a-mixin>
+			<a-mixin id="p1a" position="-2.12 1.06 0" mixin="sc" rotation="90 0 90"></a-mixin>
+			<a-mixin id="p2a" position="-1.06 2.12 0" mixin="sc" rotation="0 -90 90"></a-mixin>
+			<a-mixin id="p3a" position="0 1.06 0" mixin="sc" rotation="90 0 90"></a-mixin>
+			<a-mixin id="p4a" position="1.06 0 0" mixin="sc" rotation="0 -90 90"></a-mixin>
 			
 			<a-mixin id="sc" scale="0.445 0.445 0.445"></a-mixin>
 			<!--SCALE = scale de MTL4 * 0.7071 -->
-			<a-mixin scale="1.587 1.587 1.587" rotation="0 0 0" id="ar" line__0="start: -1.5 0 0; end: 1.5 0 0; color: green"></a-mixin><!--SCALE = inverso do scale de MTL4 -->
+			<a-mixin scale="1.587 1.587 1.587" rotation="0 90 0" id="ar" line__0="start: -1.5 0 0; end: 1.5 0 0; color: green"></a-mixin><!--SCALE = inverso do scale de MTL4 -->
 			
 			<a-mixin id="mtl4" scale="0.63 0.63 0.63" obj-model="obj: #aq; mtl: #mt1"></a-mixin>
 			<!--SCALE = scale original * 0.618919 -->
@@ -33,7 +33,7 @@
 		<a-light type="point" color="yellow" intensity="1"></a-light>
 		<a-entity scale="2.25 2.25 2.25" rotation="0 0 120" position="0 1 0">
 			<a-entity scale="1 1 1" id="nivel0">
-				<a-entity mixin="mtl4" rotation="0 0 0"><a-entity mixin="ar"></a-entity></a-entity>
+				<a-entity mixin="mtl4" rotation="0 90 0"><a-entity mixin="ar"></a-entity></a-entity>
 			</a-entity>
 			<a-entity scale="0.7071 0.7071 0.7071" id="nivel1" visible="false">
 				<a-entity mixin="mtl4 p1a"><a-entity mixin="ar"></a-entity></a-entity>
