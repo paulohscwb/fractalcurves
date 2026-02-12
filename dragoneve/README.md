@@ -8,8 +8,9 @@
  <form style="margin: 0 auto; float:right; text-align:right; width:100%; margin-bottom:15px;">
 	<select id="url" onchange="urlHandler(this.value)" style="color:royalblue;">
 		<option disabled selected value>More fractals:</option>
-		<option value="../dragoneve/">Dragon of Eve</option>
-		<!--<option value="../et/">E.T. the extra-terrestrial curve</option>-->
+		<option disabled value="../dragoneve/">Dragon of Eve</option>
+		<option value="../et/">E.T. the extra-terrestrial curve</option>
+		<!--<option value="../cat/">Cat curve</option>-->
 	</select>
 </form>
 <script>
@@ -31,7 +32,7 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tetrahedron</h4>
 <a href="vr/curve1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Tetrahedron dragon of Eve fractal"></a>
- <br>Applying the construction principle of the dragon of Eve curve with the tetrahedron, we obtain an tetrahedron dragon of Eve fractal. In the first order of construction of the fractal, we construct two new tetrahedra corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 7. 
+ <br>Applying the construction principle of the dragon of Eve curve with the tetrahedron, we obtain an tetrahedron dragon of Eve fractal. In the first order of construction of the fractal, we construct three new tetrahedra corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 7. 
  <br>
 <hr>
 <h4>2. Cube</h4>
@@ -414,6 +415,21 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <h4>76. Heptagonal dodecahedron</h4>
 <a href="vr/curve76.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/76A.png" class="foto" alt="Heptagonal dodecahedron dragon of Eve fractal"></a>
  <br>Heptagonal dodecahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>77. Hexagonal toroid</h4>
+<a href="vr/curve77.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto" alt="Hexagonal toroid dragon of Eve fractal"></a>
+ <br>Hexagonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>78. Hexagonal toroid</h4>
+<a href="vr/curve78.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto" alt="Hexagonal toroid dragon of Eve fractal"></a>
+ <br>Hexagonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>79. Hexagonal toroid</h4>
+<a href="vr/curve79.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto" alt="Hexagonal toroid dragon of Eve fractal"></a>
+ <br>Hexagonal toroid dragon of Eve fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

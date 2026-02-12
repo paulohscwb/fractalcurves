@@ -9,8 +9,9 @@
 <br><br>Neste trabalho, os modelos 3D das curvas fractais com poliedros podem ser vistos em Realidade Virtual (RV) e Realidade Aumentada (RA).</div>
 <hr>
 <h2>Novos modelos de curvas fractais</h2>
-<h3 style="margin-top:3px"><a target="_blank" href="../dragoneve/pt-br/"><img src="../dragoneve/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragão de Eva</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../et/pt-br/"><img src="../et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do E.T., o extra-terrestre</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="../dragoneve/pt-br/"><img src="../dragoneve/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragão de Eve</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../et/pt-br/"><img src="../et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do E.T., o extra-terrestre</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="../cat/pt-br/"><img src="../et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do gato</a></h3>-->
 <hr>
 <h2>Modelos anteriores de curvas fractais</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalplatonic/pt-br/"><img src="https://paulohscwb.github.io/polyhedra2/fractalplatonic/ar/16A.png" style="margin-bottom:-10px" width="40"> Fractais dos poliedros de Platão</a></h3>

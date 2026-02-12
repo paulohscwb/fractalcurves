@@ -10,7 +10,8 @@
 <hr>
 <h2>New fractal curves models</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="dragoneve/"><img src="dragoneve/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragon of Eve</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="et/"><img src="et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> E.T. the extra-terrestrial curve</a></h3>--> 
+<h3 style="margin-top:3px"><a target="_blank" href="et/"><img src="et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> E.T. the extra-terrestrial curve</a></h3>
+<!--<h3 style="margin-top:3px"><a target="_blank" href="cat/"><img src="et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cat curve</a></h3>--> 
 <hr>
 <h2>Previous fractal curves models</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalplatonic/"><img src="https://paulohscwb.github.io/polyhedra2/fractalplatonic/ar/16A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra fractals</a></h3>
