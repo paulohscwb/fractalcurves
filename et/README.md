@@ -20,7 +20,7 @@ function urlHandler(value) {
 </script>
 
 <p id="p1"></p>
-  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> E.T. fractal curve fractals with polyhedra</h2>
+  <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> E.T. curve fractals with polyhedra</h2>
 The E.T. fractal curve is formed by 4 segments of equal size, generated in each iteration. Using a 120° slope of the first segment relative to the x-axis, we have the formation of this fractal that resembles the character from the movie E.T., the extraterrestrial.
 <center><img src="ar/0A.png" style="max-width: 50%;" alt=" E.T. curve fractal"></center>
 <br>This work shows E.T. fractal curve with polyhedra, modeled for visualization in Virtual Reality.
