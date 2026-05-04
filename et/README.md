@@ -10,7 +10,8 @@
 		<option disabled selected value>More fractals:</option>
 		<option value="../dragoneve/">Dragon of Eve</option>
 		<option disabled value="../et/">E.T. the extra-terrestrial curve</option>
-		<!--<option value="../cat/">Cat curve</option>-->
+		<option value="../cat/">Cat curve</option>
+		<option value="../levy/">Lévy curve</option>
 	</select>
 </form>
 <script>
@@ -29,7 +30,7 @@ The E.T. fractal curve is formed by 4 segments of equal size, generated in each 
  <p align="center"><img src="vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX0BqVUgkCOt2herV-5OwiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetrahedron</h4>
 <a href="vr/curve1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Tetrahedron E.T. curve fractal"></a>
  <br>Applying the construction principle of the E.T. curve fractal with the tetrahedron, we obtain an tetrahedron E.T. curve fractal. In the first order of construction of the fractal, we construct four new tetrahedra corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 6. 
@@ -430,6 +431,52 @@ The E.T. fractal curve is formed by 4 segments of equal size, generated in each 
 <h4>79. Hexagonal toroid</h4>
 <a href="vr/curve79.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/79A.png" class="foto" alt="Hexagonal toroid E.T. curve fractal"></a>
  <br>E.T. curve fractal of hexagonal toroid.
+ <br>
+<hr>
+<h4>80. Regular map</h4>
+<a href="vr/curve80.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/80A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>81. Regular map</h4>
+<a href="vr/curve81.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/81A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>82. Regular map</h4>
+<a href="vr/curve82.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/82A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>83. Regular map</h4>
+<a href="vr/curve83.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/83A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>84. Regular map</h4>
+<a href="vr/curve84.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/84A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>85. Regular map</h4>
+<a href="vr/curve85.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/85A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>86. Regular map</h4>
+<a href="vr/curve86.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/86A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>87. Regular map</h4>
+<a href="vr/curve87.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/87A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
+ <br>
+<hr>
+<h4>88. Regular map</h4>
+<a href="vr/curve88.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto" alt="Regular map E.T. curve fractal"></a>
+ <br>E.T. curve fractal of regular map.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

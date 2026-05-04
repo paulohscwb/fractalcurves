@@ -11,7 +11,8 @@
 <h2>Novos modelos de curvas fractais</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="../dragoneve/pt-br/"><img src="../dragoneve/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Dragão de Eve</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../et/pt-br/"><img src="../et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do E.T., o extra-terrestre</a></h3>
-<!--<h3 style="margin-top:3px"><a target="_blank" href="../cat/pt-br/"><img src="../et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do gato</a></h3>-->
+<h3 style="margin-top:3px"><a target="_blank" href="../cat/pt-br/"><img src="../cat/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva do gato</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../levy/pt-br/"><img src="../levy/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva de Lévy</a></h3>
 <hr>
 <h2>Modelos anteriores de curvas fractais</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalplatonic/pt-br/"><img src="https://paulohscwb.github.io/polyhedra2/fractalplatonic/ar/16A.png" style="margin-bottom:-10px" width="40"> Fractais dos poliedros de Platão</a></h3>
@@ -19,6 +20,7 @@
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalarchimedean/pt-br/"><img src="https://paulohscwb.github.io/polyhedra2/fractalarchimedean/ar/37A.png" style="margin-bottom:-10px" width="40"> Fractais dos poliedros de Arquimedes</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra3/dragon-archimedes/pt-br/"><img src="https://paulohscwb.github.io/polyhedra3/dragon-archimedes/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de poliedros de Arquimedes e de Catalan</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra3/dragon-nonconvex/pt-br/"><img src="https://paulohscwb.github.io/polyhedra3/dragon-nonconvex/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais do dragão de poliedros não convexos 1</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra3/fractal-catalan/pt-br/"><img src="https://paulohscwb.github.io/polyhedra3/fractal-catalan/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Fractais de Catalan</a></h3>
 <hr>
 <h3 align="center">Realidade Virtual</h3>
 <p align="center"><img src="../dragoneve/vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>

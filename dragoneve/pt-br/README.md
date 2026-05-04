@@ -10,7 +10,8 @@
 		<option disabled selected>Mais fractais:</option>
 		<option disabled value="../../dragoneve/pt-br/">Dragão de Eve</option>
 		<option value="../../et/pt-br/">Curva do E.T., o extra-terrestre</option>
-		<!--<option value="../../cat/pt-br/">Curva do gato</option>-->
+		<option value="../../cat/pt-br/">Curva do gato</option>
+		<option value="../../levy/pt-br/">Curva de Lévy</option>
 	</select>
 </form>
 <script>
@@ -29,7 +30,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive fractals"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWlEMWcE07sVoIKTXMkqHZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetraedro</h4>
 <a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="fractal dragão de Eve de Antitoróide octogonal de íris "></a>
  <br>Aplicando o princípio de construção da curva do dragão de Eve com o tetraedro, obtemos um fractal dragão de Eve de tetraedro. Na primeira ordem de construção do fractal, construímos três novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações sólidas em ordens de 0 a 7.
@@ -430,6 +431,52 @@ function urlHandler(value) {
 <h4>79. Toroide hexagonal</h4>
 <a href="../vr/curve79.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/79A.png" class="foto" alt="fractal dragão de Eve de Toroide hexagonal"></a>
  <br>Fractal dragão de Eve do toroide hexagonal.
+ <br>
+<hr>
+<h4>80. Mapa regular</h4>
+<a href="../vr/curve80.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/80A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>81. Mapa regular</h4>
+<a href="../vr/curve81.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/81A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>82. Mapa regular</h4>
+<a href="../vr/curve82.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/82A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>83. Mapa regular</h4>
+<a href="../vr/curve83.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/83A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>84. Mapa regular</h4>
+<a href="../vr/curve84.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/84A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>85. Mapa regular</h4>
+<a href="../vr/curve85.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/85A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>86. Mapa regular</h4>
+<a href="../vr/curve86.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/86A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>87. Mapa regular</h4>
+<a href="../vr/curve87.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/87A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
+ <br>
+<hr>
+<h4>88. Mapa regular</h4>
+<a href="../vr/curve88.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/88A.png" class="foto" alt="fractal dragão de Eve de Mapa regular"></a>
+ <br>Fractal dragão de Eve do mapa regular.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
