@@ -12,6 +12,8 @@
 		<option disabled value="../../et/pt-br/">Curva do E.T., o extra-terrestre</option>
 		<option value="../../cat/pt-br/">Curva do gato</option>
 		<option value="../../levy/pt-br/">Curva de Lévy</option>
+		<option value="../../apple/pt-br/">Curva da maçã</option>
+		<option value="../../holidaytree/pt-br/">Curva de árvore de Natal</option>
 	</select>
 </form>
 <script>
@@ -32,8 +34,8 @@ function urlHandler(value) {
 <h3 id="m3d" align="center">Modelos 3D</h3>
 <iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxX0BqVUgkCOt2herV-5OwiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetraedro</h4>
-<a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Fractal da curva do E.T. de Antitoróide octogonal de íris "></a>
- <br>Aplicando o princípio de construção do fractal da curva do E.T. com o tetraedro, obtemos um fractal da curva do E.T. de tetraedro. Na primeira ordem de construção do fractal, construímos quatro novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações sólidas em ordens de 0 a 6.
+<a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Fractal da curva do E.T. de Tetraedro"></a>
+ <br>Aplicando o princípio de construção do fractal da curva do E.T. com o tetraedro, obtemos um fractal da curva do E.T. de tetraedro. Na primeira ordem de construção do fractal, construímos quatro novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações de ordens de 0 a 6.
  <br>
 <hr>
 <h4>2. Cubo</h4>

@@ -12,6 +12,8 @@
 		<option value="../et/">E.T. the extra-terrestrial curve</option>
 		<option disabled value="../cat/">Cat curve</option>
 		<option value="../levy/">Lévy curve</option>
+		<option value="../apple/">Apple curve</option>
+		<option value="../holidaytree/">Holiday Tree curve</option>
 	</select>
 </form>
 <script>
@@ -30,10 +32,10 @@ The cat fractal curve is formed by 5 segments of equal size, generated in each i
  <p align="center"><img src="vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="RV de fractais"/></p> 
 <hr>
 <h3 id="m3d" align="center">3D models</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=zDh9xjDqa51ac9P9&amp;list=PLEgIAfQR8vuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetrahedron</h4>
 <a href="vr/curve1.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/1A.png" class="foto" alt="Tetrahedron Cat curve fractal"></a>
- <br>Applying the construction principle of the cat curve fractal with the tetrahedron, we obtain an tetrahedron cat curve fractal. In the first order of construction of the fractal, we construct four new tetrahedra corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 5. 
+ <br>Applying the construction principle of the cat curve fractal with the tetrahedron, we obtain an tetrahedron cat curve fractal. In the first order of construction of the fractal, we construct five new tetrahedra corresponding to one original polyhedron. In this example, we have solid representations in orders from 0 to 5.
  <br>
 <hr>
 <h4>2. Great dodecahedron</h4>

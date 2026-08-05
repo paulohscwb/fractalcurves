@@ -12,6 +12,8 @@
 		<option value="../../et/pt-br/">Curva do E.T., o extra-terrestre</option>
 		<option value="../../cat/pt-br/">Curva do gato</option>
 		<option disabled value="../../levy/pt-br/">Curva de Lévy</option>
+		<option value="../../apple/pt-br/">Curva da maçã</option>
+		<option value="../../holidaytree/pt-br/">Curva de árvore de Natal</option>
 	</select>
 </form>
 <script>
@@ -30,10 +32,10 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive fractals"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?list=PLy0I_lGW8HxWGmFjnLlbixXP2VZLbEBW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=5PuEL0HlEcrUqvwA&amp;list=PLALUrUKhtAhU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h4>1. Tetraedro</h4>
-<a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Fractal da curva de Lévy de Antitoróide octogonal de íris "></a>
- <br>Aplicando o princípio de construção do fractal da curva de Lévy com o tetraedro, obtemos um fractal da curva de Lévy de tetraedro. Na primeira ordem de construção do fractal, construímos quatro novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações sólidas em ordens de 0 a 5.
+<a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Fractal da curva de Lévy de Tetraedro"></a>
+ <br>Aplicando o princípio de construção do fractal da curva de Lévy com o tetraedro, obtemos um fractal da curva de Lévy de tetraedro. Na primeira ordem de construção do fractal, construímos quatro novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações de ordens de 0 a 5.
  <br>
 <hr>
 <h4>2. Icosaedro</h4>

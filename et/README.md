@@ -12,6 +12,8 @@
 		<option disabled value="../et/">E.T. the extra-terrestrial curve</option>
 		<option value="../cat/">Cat curve</option>
 		<option value="../levy/">Lévy curve</option>
+		<option value="../apple/">Apple curve</option>
+		<option value="../holidaytree/">Holiday Tree curve</option>
 	</select>
 </form>
 <script>

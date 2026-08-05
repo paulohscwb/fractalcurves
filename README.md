@@ -13,6 +13,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="et/"><img src="et/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> E.T. the extra-terrestrial curve</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="cat/"><img src="cat/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Cat curve</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="levy/"><img src="levy/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Lévy curve</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="apple/"><img src="apple/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Apple curve</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="holidaytree/"><img src="holidaytree/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Holiday Tree curve</a></h3>
 <hr>
 <h2>Previous fractal curves models</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalplatonic/"><img src="https://paulohscwb.github.io/polyhedra2/fractalplatonic/ar/16A.png" style="margin-bottom:-10px" width="40"> Platonic polyhedra fractals</a></h3>
