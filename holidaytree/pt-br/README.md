@@ -24,7 +24,7 @@ function urlHandler(value) {
 
 <p id="p1"></p>
   <h2 align="center"><img src="../vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Fractais da curva da árvore de Natal com poliedros</h2>
-  A curva fractal da árvore de Natal foi criada por Jeffrey Ventrella em 2019. É uma curva formada por 5 segmentos gerados em cada iteração.
+  A curva fractal da árvore de Natal foi criada por Jeffrey Ventrella em 2019. É uma curva formada por 5 segmentos gerados em cada iteração. Os segmentos maiores formam 30&deg; com os segmentos da iteração anterior, e os três segmentos menores formam um triângulo equilátero.
   <center><img src="../ar/0A.png" alt="Fractal da árvore de Natal" style="max-width: 50%;"></center>
 <br>Este trabalho mostra fractais da curva da árvore de Natal com poliedros, modelados para visualização em Realidade Virtual.
  <p align="center"><a href="#m3d">Modelos 3D</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../../pt-br/">Página Inicial</a></p>

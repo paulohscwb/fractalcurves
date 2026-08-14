@@ -24,7 +24,7 @@ function urlHandler(value) {
 
 <p id="p1"></p>
   <h2 align="center"><img src="vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="45"> Holiday tree curve fractals with polyhedra</h2>
-The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a curve formed by 5 segments generated in each iteration.
+The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a curve formed by 5 segments generated in each iteration. The longer segments form a 30° angle with the segments from the previous iteration, and the three shorter segments form an equilateral triangle.
 <center><img src="ar/0A.png" style="max-width: 50%;" alt=" Cat curve fractal"></center>
 <br>This work shows holiday tree fractal curve with polyhedra, modeled for visualization in Virtual Reality.
 <p align="center"><a href="#m3d">3D Models</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="../">Home</a></p>
