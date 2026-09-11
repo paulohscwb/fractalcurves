@@ -120,23 +120,23 @@ function urlHandler(value) {
  <br>
 <hr>
 <h4>18. Prisma hexagonal</h4>
-<a href="../vr/curve90.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="Fractal de árvore de Natal de Prisma hexagonal"></a>
+<a href="../vr/curve90.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/89A.png" class="foto" alt="Fractal de árvore de Natal de Prisma hexagonal"></a>
  <br>Fractal de árvore de Natal do prisma hexagonal.
  <br>
 <hr>
 <h4>19. Prisma octogrâmico</h4>
-<a href="../vr/curve91.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="Fractal de árvore de Natal de Prisma octogrâmico"></a>
+<a href="../vr/curve91.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="Fractal de árvore de Natal de Prisma octogrâmico"></a>
  <br>Fractal de árvore de Natal do prisma octogrâmico.
  <br>
 <hr>
 <h4>20. Dipirâmide pentagonal</h4>
-<a href="../vr/curve92.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="Fractal de árvore de Natal de Dipirâmide pentagonal"></a>
+<a href="../vr/curve92.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="Fractal de árvore de Natal de Dipirâmide pentagonal"></a>
  <br>Fractal de árvore de Natal da dipirâmide pentagonal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>21. Trapezoedro hexagonal</h4>
-<a href="../vr/curve93.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/93A.png" class="foto" alt="Fractal de árvore de Natal de Trapezoedro hexagonal"></a>
+<a href="../vr/curve93.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="Fractal de árvore de Natal de Trapezoedro hexagonal"></a>
  <br>Fractal de árvore de Natal do trapezoedro hexagonal.
  <br>
 <hr>

@@ -120,25 +120,24 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Regular map holiday tree fractal.
  <br>
 <hr>
-<hr>
 <h4>18. Hexagonal prism</h4>
-<a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Hexagonal prism holiday tree fractal"></a>
+<a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/89A.png" class="foto" alt="Hexagonal prism holiday tree fractal"></a>
  <br>Hexagonal prism holiday tree fractal.
  <br>
 <hr>
 <h4>19. Octagrammic prism</h4>
-<a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Octagrammic prism holiday tree fractal"></a>
+<a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Octagrammic prism holiday tree fractal"></a>
  <br>Octagrammic prism holiday tree fractal.
  <br>
 <hr>
 <h4>20. Pentagonal dipyramid</h4>
-<a href="vr/curve92.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Pentagonal dipyramid holiday tree fractal"></a>
+<a href="vr/curve92.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Pentagonal dipyramid holiday tree fractal"></a>
  <br>Pentagonal dipyramid holiday tree fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>21. Hexagonal trapezohedron</h4>
-<a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/93A.png" class="foto" alt="Hexagonal trapezohedron holiday tree fractal"></a>
+<a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Hexagonal trapezohedron holiday tree fractal"></a>
  <br>Hexagonal trapezohedron holiday tree fractal.
  <br>
 <hr>

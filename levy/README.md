@@ -116,7 +116,7 @@ The Lévy Curve, known as the C-curve, is a self-similar fractal described by th
 <hr>
 <h4>17. Hexagonal prism</h4>
 <a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Hexagonal prism Lévy curve fractal"></a>
- <br>Lévy curve fractal OF hexagonal prism.
+ <br>Lévy curve fractal of hexagonal prism.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

@@ -488,7 +488,7 @@ The E.T. fractal curve is formed by 4 segments of equal size, generated in each 
 <hr>
 <h4>90. Hexagonal trapezohedron</h4>
 <a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/93A.png" class="foto" alt="Hexagonal trapezohedron E.T. curve fractal"></a>
- <br>Hexagonal trapezohedron E.T. curve fractal.
+ <br>E.T. curve fractal of hexagonal trapezohedron.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
