@@ -40,53 +40,53 @@ function urlHandler(value) {
 <hr>
 <h4>2. Grande dodecaedro</h4>
 <a href="../vr/curve6.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/6A.png" class="foto" alt="Fractal da curva da maçã de Grande dodecaedro"></a>
- <br>Fractal da curva do gato do grande dodecaedro.
+ <br>Fractal da curva da maçã do grande dodecaedro.
  <br>
 <hr>
 <h4>3. Hexaedro tetrakis</h4>
 <a href="../vr/curve7.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/7A.png" class="foto" alt="Fractal da curva da maçã de Hexaedro tetrakis"></a>
- <br>Fractal da curva do gato do hexaedro tetrakis.
+ <br>Fractal da curva da maçã do hexaedro tetrakis.
  <br>
 <hr>
 <h4>4. Grande dodecaedro estrelado</h4>
 <a href="../vr/curve12.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/12A.png" class="foto" alt="Fractal da curva da maçã de Grande dodecaedro estrelado"></a>
- <br>Fractal da curva do gato do grande dodecaedro estrelado.
+ <br>Fractal da curva da maçã do grande dodecaedro estrelado.
  <br>
 <hr>
 <h4>5. Tetrahemihexaedro</h4>
 <a href="../vr/curve17.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/17A.png" class="foto" alt="Fractal da curva da maçã de Tetrahemihexaedro"></a>
- <br>Fractal da curva do gato do tetrahemihexaedro.
+ <br>Fractal da curva da maçã do tetrahemihexaedro.
  <br>
 <hr>
 <h4>6. Dodecaedro diakis</h4>
 <a href="../vr/curve26.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/26A.png" class="foto" alt="Fractal da curva da maçã de Dodecaedro diakis"></a>
- <br>Fractal da curva do gato do dodecaedro diakis.
+ <br>Fractal da curva da maçã do dodecaedro diakis.
  <br>
 <hr>
 <h4>7. Pequeno icositetraedro hexacrônico</h4>
 <a href="../vr/curve27.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/27A.png" class="foto" alt="Fractal da curva da maçã de Pequeno icositetraedro hexacrônico"></a>
- <br>Fractal da curva do gato do pequeno icositetraedro hexacrônico.
+ <br>Fractal da curva da maçã do pequeno icositetraedro hexacrônico.
  <br>
 <hr>
 <h4>8. Dodecadodecaedro</h4>
 <a href="../vr/curve30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="Fractal da curva da maçã de Dodecadodecaedro"></a>
- <br>Fractal da curva do gato do dodecadodecaedro.
+ <br>Fractal da curva da maçã do dodecadodecaedro.
  <br>
 <hr>
 <h4>9. Grande rombihexaedro</h4>
 <a href="../vr/curve37.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/37A.png" class="foto" alt="Fractal da curva da maçã de Grande rombihexaedro"></a>
- <br>Fractal da curva do gato do grande rombihexaedro.
+ <br>Fractal da curva da maçã do grande rombihexaedro.
  <br>
 <hr>
 <h4>10. Pequeno dodecicosaedro</h4>
 <a href="../vr/curve41.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/41A.png" class="foto" alt="Fractal da curva da maçã de Pequeno dodecicosaedro"></a>
- <br>Fractal da curva do gato do pequeno dodecicosaedro.
+ <br>Fractal da curva da maçã do pequeno dodecicosaedro.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>11. Grande cuboctaedro truncado</h4>
 <a href="../vr/curve47.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/47A.png" class="foto" alt="Fractal da curva da maçã de Grande cuboctaedro truncado"></a>
- <br>Fractal da curva do gato do grande cuboctaedro truncado.
+ <br>Fractal da curva da maçã do grande cuboctaedro truncado.
  <br>
 <hr>
 <h4>12. Cubo truncado combinado</h4>
@@ -96,22 +96,27 @@ function urlHandler(value) {
 <hr>
 <h4>13. Icositetraedro pentagonal</h4>
 <a href="../vr/curve62.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/62A.png" class="foto" alt="Fractal da curva da maçã de Icositetraedro pentagonal"></a>
- <br>Fractal da curva do gato do icositetraedro pentagonal.
+ <br>Fractal da curva da maçã do icositetraedro pentagonal.
  <br>
 <hr>
 <h4>14. Dodecaedro hendecagonal</h4>
 <a href="../vr/curve67.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/67A.png" class="foto" alt="Fractal da curva da maçã de Dodecaedro hendecagonal"></a>
- <br>Fractal da curva do gato do octaedro de dodecaedro hendecagonal.
+ <br>Fractal da curva da maçã do octaedro de dodecaedro hendecagonal.
  <br>
 <hr>
 <h4>15. Toroide hexagonal</h4>
 <a href="../vr/curve77.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/77A.png" class="foto" alt="Fractal da curva da maçã de Toroide hexagonal"></a>
- <br>Fractal da curva do gato do toroide hexagonal.
+ <br>Fractal da curva da maçã do toroide hexagonal.
  <br>
 <hr>
 <h4>16. Mapa regular</h4>
 <a href="../vr/curve87.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/87A.png" class="foto" alt="Fractal da curva da maçã de Mapa regular"></a>
- <br>Fractal da curva do gato do mapa regular.
+ <br>Fractal da curva da maçã do mapa regular.
+ <br>
+<hr>
+<h4>17. Prisma octogrâmico</h4>
+<a href="../vr/curve91.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="fractal da curva da maçã de Prisma octogrâmico"></a>
+ <br>Fractal da curva da maçã do prisma octogrâmico.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

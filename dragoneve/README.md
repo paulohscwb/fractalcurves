@@ -130,7 +130,7 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
  <br>
 <hr>
 <h4>20. Small Icosihemidodecacron</h4>
-<a href="vr/curve20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Small Icosihemidodecacron of Eve fractal"></a>
+<a href="vr/curve20.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/20A.png" class="foto" alt="Small Icosihemidodecacron dragon of Eve fractal"></a>
  <br>Small Icosihemidodecacron dragon of Eve fractal.
  <br>
 <hr>
@@ -484,6 +484,27 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <h4>89. Great dodecahemidodecacron</h4>
 <a href="vr/curve89.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/89A.png" class="foto" alt="Great Dodecahemidodecacron dragon of Eve fractal"></a>
  <br>Great dodecahemidodecacron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>90. Hexagonal prism</h4>
+<a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Hexagonal prism dragon of Eve fractal"></a>
+ <br>Hexagonal prism dragon of Eve fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>91. Octagrammic prism</h4>
+<a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Octagrammic prism dragon of Eve fractal"></a>
+ <br>Octagrammic prism dragon of Eve fractal.
+ <br>
+<hr>
+<h4>92. Pentagonal dipyramid</h4>
+<a href="vr/curve92.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Pentagonal dipyramid dragon of Eve fractal"></a>
+ <br>Pentagonal dipyramid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>93. Hexagonal trapezohedron</h4>
+<a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/93A.png" class="foto" alt="Hexagonal trapezohedron dragon of Eve fractal"></a>
+ <br>Hexagonal trapezohedron dragon of Eve fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

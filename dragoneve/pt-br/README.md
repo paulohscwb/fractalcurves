@@ -486,6 +486,27 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve do grande dodecahemidodecacron.
  <br>
 <hr>
+<h4>90. Prisma hexagonal</h4>
+<a href="../vr/curve90.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="fractal dragão de Eve de Prisma hexagonal"></a>
+ <br>Fractal dragão de Eve do prisma hexagonal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>91. Prisma octogrâmico</h4>
+<a href="../vr/curve91.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="fractal dragão de Eve de Prisma octogrâmico"></a>
+ <br>Fractal dragão de Eve do prisma octogrâmico.
+ <br>
+<hr>
+<h4>92. Dipirâmide pentagonal</h4>
+<a href="../vr/curve92.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="fractal dragão de Eve de Dipirâmide pentagonal"></a>
+ <br>Fractal dragão de Eve da dipirâmide pentagonal.
+ <br>
+<hr>
+<h4>93. Trapezoedro hexagonal</h4>
+<a href="../vr/curve93.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/93A.png" class="foto" alt="fractal dragão de Eve de Trapezoedro hexagonal"></a>
+ <br>Fractal dragão de Eve do trapezoedro hexagonal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

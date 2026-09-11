@@ -120,6 +120,28 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Regular map holiday tree fractal.
  <br>
 <hr>
+<hr>
+<h4>18. Hexagonal prism</h4>
+<a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Hexagonal prism holiday tree fractal"></a>
+ <br>Hexagonal prism holiday tree fractal.
+ <br>
+<hr>
+<h4>19. Octagrammic prism</h4>
+<a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Octagrammic prism holiday tree fractal"></a>
+ <br>Octagrammic prism holiday tree fractal.
+ <br>
+<hr>
+<h4>20. Pentagonal dipyramid</h4>
+<a href="vr/curve92.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Pentagonal dipyramid holiday tree fractal"></a>
+ <br>Pentagonal dipyramid holiday tree fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Hexagonal trapezohedron</h4>
+<a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/93A.png" class="foto" alt="Hexagonal trapezohedron holiday tree fractal"></a>
+ <br>Hexagonal trapezohedron holiday tree fractal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

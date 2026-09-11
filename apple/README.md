@@ -40,78 +40,83 @@ The apple fractal curve is defined by seven equal-sized segments generated in ea
 <hr>
 <h4>2. Great dodecahedron</h4>
 <a href="vr/curve6.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/6A.png" class="foto" alt="great dodecahedron Apple curve fractal"></a>
- <br>Cat curve fractal of great dodecahedron.
+ <br>Apple curve fractal of great dodecahedron.
  <br>
 <hr>
 <h4>3. Tetrakis hexahedron</h4>
 <a href="vr/curve7.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/7A.png" class="foto" alt="tetrakis hexahedron Apple curve fractal"></a>
- <br>Cat curve fractal of tetrakis hexahedron.
+ <br>Apple curve fractal of tetrakis hexahedron.
  <br>
 <hr>
 <h4>4. Great stellated dodecahedron</h4>
 <a href="vr/curve12.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/12A.png" class="foto" alt="Great stellated dodecahedron Apple curve fractal"></a>
- <br>Cat curve fractal of great stellated dodecahedron.
+ <br>Apple curve fractal of great stellated dodecahedron.
  <br>
 <hr>
 <h4>5. Tetrahemihexahedron</h4>
 <a href="vr/curve17.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/17A.png" class="foto" alt="Tetrahemihexahedron Apple curve fractal"></a>
- <br>Cat curve fractal of tetrahemihexahedron.
+ <br>Apple curve fractal of tetrahemihexahedron.
  <br>
 <hr>
 <h4>6. Dyakis dodecahedron</h4>
 <a href="vr/curve26.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/26A.png" class="foto" alt="Dyakis dodecahedron Apple curve fractal"></a>
- <br>Cat curve fractal of dyakis dodecahedron.
+ <br>Apple curve fractal of dyakis dodecahedron.
  <br>
 <hr>
 <h4>7. Small hexacronic icositetrahedron</h4>
 <a href="vr/curve27.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/27A.png" class="foto" alt="Small hexacronic icositetrahedron Apple curve fractal"></a>
- <br>Cat curve fractal of small hexacronic icositetrahedron.
+ <br>Apple curve fractal of small hexacronic icositetrahedron.
  <br>
 <hr>
 <h4>8. Dodecadodecahedron</h4>
 <a href="vr/curve30.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Dodecadodecahedron Apple curve fractal"></a>
- <br>Cat curve fractal of dodecadodecahedron.
+ <br>Apple curve fractal of dodecadodecahedron.
  <br>
 <hr>
 <h4>9. Great rhombihexahedron</h4>
 <a href="vr/curve37.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/37A.png" class="foto" alt="Great rhombihexahedron Apple curve fractal"></a>
- <br>Cat curve fractal of great rhombihexahedron.
+ <br>Apple curve fractal of great rhombihexahedron.
  <br>
 <hr>
 <h4>10. Small dodecicosahedron</h4>
 <a href="vr/curve41.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/41A.png" class="foto" alt="Small dodecicosahedron Apple curve fractal"></a>
- <br>Cat curve fractal of small dodecicosahedron.
+ <br>Apple curve fractal of small dodecicosahedron.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 <h4>11. Great truncated cuboctahedron</h4>
 <a href="vr/curve47.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/47A.png" class="foto" alt="Great truncated cuboctahedron Apple curve fractal"></a>
- <br>Cat curve fractal of great truncated cuboctahedron.
+ <br>Apple curve fractal of great truncated cuboctahedron.
  <br>
 <hr>
 <h4>12. Joined truncated cube</h4>
 <a href="vr/curve57.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto" alt="Joined truncated cube Apple curve fractal"></a>
- <br>Cat curve fractal of joined truncated cube.
+ <br>Apple curve fractal of joined truncated cube.
  <br>
 <hr>
 <h4>13. Pentagonal icositetrahedron</h4>
 <a href="vr/curve62.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/62A.png" class="foto" alt="Pentagonal icositetrahedron Apple curve fractal"></a>
- <br>Cat curve fractal of pentagonal icositetrahedron.
+ <br>Apple curve fractal of pentagonal icositetrahedron.
  <br>
 <hr>
 <h4>14. Hendecagonal dodecahedron</h4>
 <a href="vr/curve67.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/67A.png" class="foto" alt="Hendecagonal dodecahedron Apple curve fractal"></a>
- <br>Cat curve fractal of Hendecagonal dodecahedron.
+ <br>Apple curve fractal of Hendecagonal dodecahedron.
  <br>
 <hr>
 <h4>15. Hexagonal toroid</h4>
 <a href="vr/curve77.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/77A.png" class="foto" alt="Hexagonal toroid Apple curve fractal"></a>
- <br>Cat curve fractal of hexagonal toroid.
+ <br>Apple curve fractal of hexagonal toroid.
  <br>
 <hr>
 <h4>16. Regular map</h4>
 <a href="vr/curve87.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/87A.png" class="foto" alt="Regular map Apple curve fractal"></a>
- <br>Cat curve fractal of regular map.
+ <br>Apple curve fractal of regular map.
+ <br>
+<hr>
+<h4>17. Octagrammic prism</h4>
+<a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Octagrammic prism Apple curve fractal"></a>
+ <br>Apple curve fractal of octagrammic prism.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
