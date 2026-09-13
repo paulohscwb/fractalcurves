@@ -14,11 +14,11 @@
 <div style='color:#fada91; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Lato; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2026 Paulo Henrique Siqueira</div>
     <a-scene renderer="logarithmicDepthBuffer: true; colorManagement: true;">
 		<a-assets>
-			<a-mixin id="p1a" position="-1.06 0.612 0" rotation='-30 90 30' mixin="sc1"></a-mixin>
-			<a-mixin id="p2a" position="1.06 0.612 0" rotation="30 90 -30" mixin="sc1"></a-mixin>
-			<a-mixin id="p3a" position="-0.353 1.836 0" rotation='60 90 -60' mixin="sc"></a-mixin>
-			<a-mixin id="p4a" position="0 2.448 0" rotation="0 90 0" mixin="sc"></a-mixin>
-			<a-mixin id="p5a" position="0.353 1.836 0" rotation="-60 90 60" mixin="sc"></a-mixin>
+			<a-mixin id="p1a" position="-1.06 0.612 0" rotation='-30 90 36' mixin="sc1"></a-mixin>
+			<a-mixin id="p2a" position="1.06 0.612 0" rotation="30 90 -36" mixin="sc1"></a-mixin>
+			<a-mixin id="p3a" position="-0.353 1.836 0" rotation='60 90 -72' mixin="sc"></a-mixin>
+			<a-mixin id="p4a" position="0 2.448 0" rotation="0 90 36" mixin="sc"></a-mixin>
+			<a-mixin id="p5a" position="0.353 1.836 0" rotation="-60 90 72" mixin="sc"></a-mixin>
 			
 			<a-mixin id="sc" rotation="0 0 0" scale="0.3 0.3 0.601"></a-mixin>
 			<a-mixin id="sc1" rotation="0 0 0" scale="0.515 0.515 1.03"></a-mixin>
@@ -35,7 +35,7 @@
 		<a-light type="point" color="yellow" intensity="1"></a-light>
 		<a-entity scale="2.7 2.7 2.7" rotation="0 0 0" position="0 -1.5 0">
 			<a-entity scale="1 1 1" id="nivel0">
-				<a-entity mixin="mtl4" rotation="0 90 0"><a-entity mixin="ar"></a-entity></a-entity>
+				<a-entity mixin="mtl4" rotation="0 90 36"><a-entity mixin="ar"></a-entity></a-entity>
 			</a-entity>
 			<a-entity scale="0.7071 0.7071 0.7071" id="nivel1" visible="false">
 				<a-entity mixin="mtl4 p1a"><a-entity mixin="ar"></a-entity></a-entity>
