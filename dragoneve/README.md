@@ -513,8 +513,28 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
  <br>
 <hr>
 <h4>95. Hexagrammic prism</h4>
-<a href="vr/curve95.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Hexagrammic prism dragon of Eve fractal"></a>
+<a href="vr/curve95.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/95A.png" class="foto" alt="Hexagrammic prism dragon of Eve fractal"></a>
  <br>Hexagrammic prism dragon of Eve fractal.
+ <br>
+<hr>
+<h4>96. Torus knot</h4>
+<a href="vr/curve96.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/96A.png" class="foto" alt="Torus knot dragon of Eve fractal"></a>
+ <br>Torus knot dragon of Eve fractal.
+ <br>
+<hr>
+<h4>97. Torus</h4>
+<a href="vr/curve97.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto" alt="Torus dragon of Eve fractal"></a>
+ <br>Torus dragon of Eve fractal.
+ <br>
+<hr>
+<h4>98. Hexagonal regular star tetragonal toroid</h4>
+<a href="vr/curve98.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/98A.png" class="foto" alt="Hexagonal regular star tetragonal toroid dragon of Eve fractal"></a>
+ <br>Hexagonal regular star tetragonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>99. Hexagonal regular sinusoidal tetragonal toroid</h4>
+<a href="vr/curve99.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/99A.png" class="foto" alt="Hexagonal regular sinusoidal tetragonal toroid dragon of Eve fractal"></a>
+ <br>HHexagonal regular sinusoidal tetragonal toroid dragon of Eve fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>

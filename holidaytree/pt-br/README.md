@@ -145,9 +145,29 @@ function urlHandler(value) {
  <br>Fractal de árvore de Natal da dipirâmide pentagrâmica.
  <br>
 <hr>
-<h4>18. Prisma hexagrâmico</h4>
+<h4>23. Prisma hexagrâmico</h4>
 <a href="../vr/curve95.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/95A.png" class="foto" alt="Fractal de árvore de Natal de Prisma hexagrâmico"></a>
  <br>Fractal de árvore de Natal do prisma hexagrâmico.
+ <br>
+<hr>
+<h4>24. Nó toral</h4>
+<a href="../vr/curve96.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto" alt="Fractal de árvore de Natal de Nó toral"></a>
+ <br>Fractal de árvore de Natal de nó toral.
+ <br>
+<hr>
+<h4>25. Toro</h4>
+<a href="../vr/curve97.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto" alt="Fractal de árvore de Natal de toro"></a>
+ <br>Fractal de árvore de Natal de toro.
+ <br>
+<hr>
+<h4>26. Toroide tetragonal regular estrelado hexagonal</h4>
+<a href="../vr/curve98.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/98A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado hexagonal"></a>
+ <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado hexagonal.
+ <br>
+<hr>
+<h4>27. Toroide tetragonal regular senoidal estrelado hexagonal</h4>
+<a href="../vr/curve99.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/99A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular senoidal estrelado hexagonal"></a>
+ <br>Fractal de árvore de Natal do toroide tetragonal regular senoidal estrelado hexagonal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

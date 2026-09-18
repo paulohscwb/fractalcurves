@@ -151,6 +151,26 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Hexagrammic prism holiday tree fractal.
  <br>
 <hr>
+<h4>24. Torus knot</h4>
+<a href="vr/curve96.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/96A.png" class="foto" alt="Torus knot holiday tree fractal"></a>
+ <br>Torus knot holiday tree fractal.
+ <br>
+<hr>
+<h4>25. Torus</h4>
+<a href="vr/curve97.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto" alt="Torus holiday tree fractal"></a>
+ <br>Torus holiday tree fractal.
+ <br>
+<hr>
+<h4>26. Hexagonal regular star tetragonal toroid</h4>
+<a href="vr/curve98.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/98A.png" class="foto" alt="Hexagonal regular star tetragonal toroid holiday tree fractal"></a>
+ <br>Hexagonal regular star tetragonal toroid holiday tree fractal.
+ <br>
+<hr>
+<h4>27. Hexagonal regular sinusoidal tetragonal toroid</h4>
+<a href="vr/curve99.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/99A.png" class="foto" alt="Hexagonal regular sinusoidal tetragonal toroid holiday tree fractal"></a>
+ <br>Hexagonal regular sinusoidal tetragonal toroid holiday tree fractal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

@@ -517,6 +517,26 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve do prisma hexagrâmico.
  <br>
 <hr>
+<h4>96. Nó toral</h4>
+<a href="../vr/curve96.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto" alt="fractal dragão de Eve de Nó toral"></a>
+ <br>Fractal dragão de Eve de nó toral.
+ <br>
+<hr>
+<h4>97. Toro</h4>
+<a href="../vr/curve97.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto" alt="fractal dragão de Eve de toro"></a>
+ <br>Fractal dragão de Eve de toro.
+ <br>
+<hr>
+<h4>98. Toroide tetragonal regular estrelado hexagonal</h4>
+<a href="../vr/curve98.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/98A.png" class="foto" alt="fractal dragão de Eve de Toroide tetragonal regular estrelado hexagonal"></a>
+ <br>Fractal dragão de Eve do toroide tetragonal regular estrelado hexagonal.
+ <br>
+<hr>
+<h4>99. Toroide tetragonal regular senoidal estrelado hexagonal</h4>
+<a href="../vr/curve99.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/99A.png" class="foto" alt="fractal dragão de Eve de Toroide tetragonal regular senoidal estrelado hexagonal"></a>
+ <br>Fractal dragão de Eve do toroide tetragonal regular senoidal estrelado hexagonal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
