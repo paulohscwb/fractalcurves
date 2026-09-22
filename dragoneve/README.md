@@ -534,7 +534,12 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <hr>
 <h4>99. Hexagonal regular sinusoidal tetragonal toroid</h4>
 <a href="vr/curve99.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/99A.png" class="foto" alt="Hexagonal regular sinusoidal tetragonal toroid dragon of Eve fractal"></a>
- <br>HHexagonal regular sinusoidal tetragonal toroid dragon of Eve fractal.
+ <br>Hexagonal regular sinusoidal tetragonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>100. Flower of life polyhedra</h4>
+<a href="vr/curve100.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/100A.png" class="foto" alt="Flower of life polyhedra"></a>
+ <br>Flower of life polyhedra dragon of Eve fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
