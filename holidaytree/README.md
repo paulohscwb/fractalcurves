@@ -176,6 +176,11 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Flower of life polyhedra holiday tree fractal.
  <br>
 <hr>
+<h4>29. Lemniscata polyhedra</h4>
+<a href="vr/curve101.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/101A.png" class="foto" alt="Lemniscata polyhedra holiday tree fractal"></a>
+ <br>Lemniscata polyhedra holiday tree fractal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.

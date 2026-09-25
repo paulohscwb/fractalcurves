@@ -539,7 +539,13 @@ function urlHandler(value) {
 <hr>
 <h4>100. Poliedro flor da vida</h4>
 <a href="../vr/curve100.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/100A.png" class="foto" alt="fractal dragão de Eve de Poliedro flor da vida"></a>
- <br>Fractal dragão de Eve do poliedro flor da vidal.
+ <br>Fractal dragão de Eve do poliedro flor da vida.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>101. Poliedro lemniscata</h4>
+<a href="../vr/curve101.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/101A.png" class="foto" alt="fractal dragão de Eve de Poliedro lemniscata"></a>
+ <br>Fractal dragão de Eve do poliedro lemniscata.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
