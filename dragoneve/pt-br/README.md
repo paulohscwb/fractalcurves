@@ -548,6 +548,16 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve do poliedro lemniscata.
  <br>
 <hr>
+<h4>102. Estrela hexagrâmica</h4>
+<a href="../vr/curve102.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto" alt="fractal dragão de Eve de Estrela hexagrâmica"></a>
+ <br>Fractal dragão de Eve do Estrela hexagrâmica.
+ <br>
+<hr>
+<h4>103. Estrela pentagrâmica</h4>
+<a href="../vr/curve103.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/103A.png" class="foto" alt="fractal dragão de Eve de Estrela pentagrâmica"></a>
+ <br>Fractal dragão de Eve do Estrela pentagrâmica.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
