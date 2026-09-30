@@ -550,12 +550,37 @@ function urlHandler(value) {
 <hr>
 <h4>102. Estrela hexagrâmica</h4>
 <a href="../vr/curve102.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto" alt="fractal dragão de Eve de Estrela hexagrâmica"></a>
- <br>Fractal dragão de Eve do Estrela hexagrâmica.
+ <br>Fractal dragão de Eve da Estrela hexagrâmica.
  <br>
 <hr>
 <h4>103. Estrela pentagrâmica</h4>
 <a href="../vr/curve103.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/103A.png" class="foto" alt="fractal dragão de Eve de Estrela pentagrâmica"></a>
- <br>Fractal dragão de Eve do Estrela pentagrâmica.
+ <br>Fractal dragão de Eve da Estrela pentagrâmica.
+ <br>
+<hr>
+<h4>104. Hélice cilíndrica</h4>
+<a href="../vr/curve104.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/104A.png" class="foto" alt="fractal dragão de Eve de Hélice cilíndrica"></a>
+ <br>Fractal dragão de Eve da hélice cilíndrica.
+ <br>
+<hr>
+<h4>105. Flor da vida</h4>
+<a href="../vr/curve105.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto" alt="fractal dragão de Eve de Flor da vida"></a>
+ <br>Fractal dragão de Eve da flor da vida.
+ <br>
+<hr>
+<h4>106. Flor da vida</h4>
+<a href="../vr/curve106.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/106A.png" class="foto" alt="fractal dragão de Eve de Flor da vida"></a>
+ <br>Fractal dragão de Eve da flor da vida.
+ <br>
+<hr>
+<h4>107. Trevo de quatro folhas</h4>
+<a href="../vr/curve107.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/107A.png" class="foto" alt="fractal dragão de Eve de trevo de quatro folhas"></a>
+ <br>Fractal dragão de Eve do trevo de quatro folhas.
+ <br>
+<hr>
+<h4>108. Borboleta</h4>
+<a href="../vr/curve108.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto" alt="fractal dragão de Eve de Borboleta"></a>
+ <br>Fractal dragão de Eve da borboleta.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

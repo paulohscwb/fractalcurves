@@ -191,6 +191,31 @@ function urlHandler(value) {
  <br>Fractal de árvore de Natal da estrela pentagrâmica.
  <br>
 <hr>
+<h4>32. Hélice cilíndrica</h4>
+<a href="../vr/curve104.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/104A.png" class="foto" alt="Fractal de árvore de Natal da Hélice cilíndrica"></a>
+ <br>Fractal de árvore de Natal da hélice cilíndrica.
+ <br>
+<hr>
+<h4>33. Flor da vida</h4>
+<a href="../vr/curve105.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto" alt="Fractal de árvore de Natal da Flor da vida"></a>
+ <br>Fractal de árvore de Natal da flor da vida.
+ <br>
+<hr>
+<h4>34. Flor da vida</h4>
+<a href="../vr/curve106.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/106A.png" class="foto" alt="Fractal de árvore de Natal da Flor da vida"></a>
+ <br>Fractal de árvore de Natal da flor da vida.
+ <br>
+<hr>
+<h4>35. Trevo de quatro folhas</h4>
+<a href="../vr/curve107.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/107A.png" class="foto" alt="Fractal de árvore de Natal da trevo de quatro folhas"></a>
+ <br>Fractal de árvore de Natal do trevo de quatro folhas.
+ <br>
+<hr>
+<h4>36. Borboleta</h4>
+<a href="../vr/curve108.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto" alt="Fractal de árvore de Natal da Borboleta"></a>
+ <br>Fractal de árvore de Natal da borboleta.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

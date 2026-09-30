@@ -192,6 +192,31 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Pentagrammic star holiday tree fractal.
  <br>
 <hr>
+<h4>32. Cylindrical helix</h4>
+<a href="vr/curve104.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/104A.png" class="foto" alt="Cylindrical helix holiday tree fractal"></a>
+ <br>Cylindrical helix holiday tree fractal.
+ <br>
+<hr>
+<h4>33. Flower of life</h4>
+<a href="vr/curve105.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/105A.png" class="foto" alt="Flower of life holiday tree fractal"></a>
+ <br>Flower of life holiday tree fractal.
+ <br>
+<hr>
+<h4>34. Flower of life</h4>
+<a href="vr/curve106.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/106A.png" class="foto" alt="Flower of life holiday tree fractal"></a>
+ <br>Flower of life holiday tree fractal.
+ <br>
+<hr>
+<h4>35. Four-leaf clover</h4>
+<a href="vr/curve107.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto" alt="Four-leaf clover holiday tree fractal"></a>
+ <br>Four-leaf clover holiday tree fractal.
+ <br>
+<hr>
+<h4>36. Butterfly</h4>
+<a href="vr/curve108.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto" alt="Butterfly holiday tree fractal"></a>
+ <br>Butterfly holiday tree fractal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
