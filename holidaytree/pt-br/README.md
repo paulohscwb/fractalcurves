@@ -213,7 +213,12 @@ function urlHandler(value) {
 <hr>
 <h4>36. Borboleta</h4>
 <a href="../vr/curve108.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto" alt="Fractal de árvore de Natal da Borboleta"></a>
- <br>Fractal de árvore de Natal da borboleta.
+ <br>Fractal de árvore de Natal de borboleta.
+ <br>
+<hr>
+<h4>37. Borboleta</h4>
+<a href="../vr/curve109.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/109A.png" class="foto" alt="Fractal de árvore de Natal da Borboleta"></a>
+ <br>Fractal de árvore de Natal de borboleta.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

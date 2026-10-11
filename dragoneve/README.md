@@ -579,7 +579,12 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
  <br>
 <hr>
 <h4>108. Butterfly</h4>
-<a href="vr/curve108.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto" alt="Pentagrammic star dragon of Butterfly"></a>
+<a href="vr/curve108.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto" alt="Butterfly dragon of Eve fractal"></a>
+ <br>Butterfly dragon of Eve fractal.
+ <br>
+<hr>
+<h4>109. Butterfly</h4>
+<a href="vr/curve109.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto" alt="Butterfly dragon of Eve fractal"></a>
  <br>Butterfly dragon of Eve fractal.
  <br>
 <hr>
