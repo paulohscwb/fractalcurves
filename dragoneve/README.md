@@ -594,6 +594,17 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>111. Pentagonal regular star tetragonal toroid</h4>
+<a href="vr/curve111.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto" alt="Pentagonal regular star tetragonal toroid dragon of Eve fractal"></a>
+ <br>Pentagonal regular star tetragonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<h4>112. Heptagonal regular star tetragonal toroid</h4>
+<a href="vr/curve112.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/112A.png" class="foto" alt="Heptagonal regular star tetragonal toroid dragon of Eve fractal"></a>
+ <br>Heptagonal regular star tetragonal toroid dragon of Eve fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 

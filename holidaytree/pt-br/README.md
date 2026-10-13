@@ -226,6 +226,16 @@ function urlHandler(value) {
  <br>Fractal de árvore de Natal do Garfield.
  <br>
 <hr>
+<h4>39. Toroide tetragonal regular estrelado pentagonal</h4>
+<a href="../vr/curve111.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado pentagonal"></a>
+ <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado pentagonal.
+ <br>
+<hr>
+<h4>40. Toroide tetragonal regular estrelado heptagonal</h4>
+<a href="../vr/curve112.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/112A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado heptagonal"></a>
+ <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado heptagonal.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
