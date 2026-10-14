@@ -604,6 +604,36 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve do toroide tetragonal regular estrelado heptagonal.
  <br>
 <hr>
+<h4>113. Grande dodecicosácrono</h4>
+<a href="../vr/curve113.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/113A.png" class="foto" alt="fractal dragão de Eve de Grande dodecicosácrono"></a>
+ <br>Fractal dragão de Eve de grande dodecicosácrono.
+ <br>
+<hr>
+<h4>114. Grande icosaedro</h4>
+<a href="../vr/curve114.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/114A.png" class="foto" alt="fractal dragão de Eve de Grande icosaedro"></a>
+ <br>Fractal dragão de Eve de grande icosaedro.
+ <br>
+<hr>
+<h4>115. Triacontaedro rômbico medial</h4>
+<a href="../vr/curve115.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/115A.png" class="foto" alt="fractal dragão de Eve de Triacontaedro rômbico medial"></a>
+ <br>Fractal dragão de Eve de triacontaedro rômbico mediall.
+ <br>
+<hr>
+<h4>116. Octaedro hexakis de Möbius</h4>
+<a href="../vr/curve116.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/116A.png" class="foto" alt="fractal dragão de Eve de Octaedro hexakis de Möbius"></a>
+ <br>Fractal dragão de Eve de octaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>117. Hexaedro octakis de Möbius</h4>
+<a href="../vr/curve117.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/117A.png" class="foto" alt="fractal dragão de Eve de Hexaedro octakis de Möbius"></a>
+ <br>Fractal dragão de Eve de hexaedro octakis de Möbius.
+ <br>
+<hr>
+<h4>118. Deltaedro de Möbius</h4>
+<a href="../vr/curve118.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/118A.png" class="foto" alt="fractal dragão de Eve de Deltaedro de Möbius"></a>
+ <br>Fractal dragão de Eve do deltaedro de Möbius.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

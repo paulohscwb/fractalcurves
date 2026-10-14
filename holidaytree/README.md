@@ -238,6 +238,37 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Great dodecicosacron</h4>
+<a href="vr/curve113.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/113A.png" class="foto" alt="Great dodecicosacron holiday tree fractal"></a>
+ <br>Great dodecicosacron holiday tree fractal.
+ <br>
+<hr>
+<h4>42. Great icosahedron</h4>
+<a href="vr/curve114.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/114A.png" class="foto" alt="Great icosahedron holiday tree fractal"></a>
+ <br>Great icosahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>43. Medial rhombic triacontahedron</h4>
+<a href="vr/curve115.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/115A.png" class="foto" alt="Medial rhombic triacontahedron holiday tree fractal"></a>
+ <br>Medial rhombic triacontahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>44. Möbius hexakis octahedron</h4>
+<a href="vr/curve116.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/116A.png" class="foto" alt="Möbius hexakis octahedron holiday tree fractal"></a>
+ <br>Möbius hexakis octahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>45. Möbius octakis hexahedron</h4>
+<a href="vr/curve117.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/117A.png" class="foto" alt="Möbius octakis hexahedron holiday tree fractal"></a>
+ <br>Möbius octakis hexahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>46. Möbius deltahedron</h4>
+<a href="vr/curve118.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/118A.png" class="foto" alt="Möbius deltahedron holiday tree fractal"></a>
+ <br>Möbius deltahedron holiday tree fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
