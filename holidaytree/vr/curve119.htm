@@ -451,7 +451,7 @@
 			</a-entity>
 				</a-entity>
 			</a-entity>
-			<!--<a-entity scale="0.25 0.25 0.25" id="nivel4" visible="false">
+			<a-entity scale="0.25 0.25 0.25" id="nivel4" visible="false">
 				<a-entity position='-3 1.731 0' rotation='0 180 150' scale='0.816 0.816 0.816'>
 					<a-entity position='-2.12 1.224 0' rotation='0 180 150' scale='0.816 0.816 0.816'>
 						<a-entity position='-1.5 0.8655 0' rotation='0 180 150' scale='0.816 0.816 0.816'>
@@ -2137,7 +2137,7 @@
 				</a-entity>
 				</a-entity>
 			</a-entity>
-		--></a-entity>
+		</a-entity>
 		<a-box mixin="piso" class="piso" visible="false" position="0 -1.5 0"></a-box>
 		<a-entity id="cameraRig" position="0 0 11">
 			<a-entity camera="fov:1; near:0.001;" id="head" orbit-controls="target: 0 0 0; maxPolarAngle: 180; minDistance: 0.5; initialPosition: 0 0 700; maxDistance: 1500;"></a-entity>
@@ -2153,7 +2153,7 @@
 		<span class="titulo">Holiday tree fractal</span>
 		<br><span class="titulo">Fractal de árvore de Natal</span>
 		<hr><input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;|&nbsp;&nbsp;<label for="rangevalue">order: </label><output id="rangevalue">0</output>
-		<br><input type="range" id="nv" min="0" max="3" step="1" value="0" onchange="rangevalue.value=value; mnivel()">
+		<br><input type="range" id="nv" min="0" max="4" step="1" value="0" onchange="rangevalue.value=value; mnivel()">
 	</div>
   </body>
 </html>
