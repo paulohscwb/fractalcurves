@@ -32,7 +32,7 @@ function urlHandler(value) {
   <p align="center"><img src="../vr/salas/videos/curve1.gif" style="max-width: 85%; border-radius:5px;" loading="lazy" alt="VR immersive fractals"/></p> 
 <hr>
 <h3 id="m3d" align="center">Modelos 3D</h3>
-<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=zDh9xjDqa51ac9P9&amp;list=PLEgIAfQR8vuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+<!--<iframe width="560" height="315" style="max-width:100%" src="https://www.youtube.com/embed/videoseries?si=iUfPa0HQckvG_1EZ&amp;list=PLGS4ChxG9n3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 <h4>1. Tetraedro</h4>
 <a href="../vr/curve1.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/1A.png" class="foto" alt="Fractal da curva da árvore de Natal de tetraedro"></a>
  <br>Aplicando o princípio de construção do fractal da curva da árvore de Natal com o tetraedro, obtemos um fractal da curva da árvore de Natal de tetraedro. Na primeira ordem de construção do fractal, construímos cinco novos tetraedros correspondentes a um poliedro original. Neste exemplo, temos representações de ordens de 0 a 5.
