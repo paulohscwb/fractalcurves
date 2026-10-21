@@ -308,9 +308,9 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve do triacontaedro disdiakis medial.
  <br>
 <hr>
-<h4>55. Grande icosaedro triakis</h4>
-<a href="../vr/curve55.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto" alt="fractal dragão de Eve de Grande icosaedro triakis"></a>
- <br>Fractal dragão de Eve do grande icosaedro triakis.
+<h4>55. Dodecaedro truncado combinado</h4>
+<a href="../vr/curve55.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto" alt="fractal dragão de Eve de Dodecaedro truncado combinado"></a>
+ <br>Fractal dragão de Eve de dodecaedro truncado combinado.
  <br>
 <hr>
 <h4>56. Grande triacontaedro disdiakis</h4>
@@ -642,6 +642,37 @@ function urlHandler(value) {
 <h4>120. Rosácea de pinhão</h4>
 <a href="../vr/curve120.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/120A.png" class="foto" alt="fractal dragão de Eve de Rosácea de pinhão"></a>
  <br>Fractal dragão de Eve de rosácea de pinhão.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>121. Pequeno icosaedro triâmbico</h4>
+<a href="../vr/curve121.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/121A.png" class="foto" alt="fractal dragão de Eve de Pequeno icosaedro triâmbico"></a>
+ <br>Fractal dragão de Eve de pequeno icosaedro triâmbico.
+ <br>
+<hr>
+<h4>122. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/curve122.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/122A.png" class="foto" alt="fractal dragão de Eve de Hexecontaedro deltoidal medial"></a>
+ <br>Fractal dragão de Eve de hexecontaedro deltoidal medial.
+ <br>
+<hr>
+<h4>123. Grande hexecontaedro dodecacrônico</h4>
+<a href="../vr/curve123.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/123A.png" class="foto" alt="fractal dragão de Eve de Grande hexecontaedro dodecacrônico"></a>
+ <br>Fractal dragão de Eve de grande hexecontaedro dodecacrônico.
+ <br>
+<hr>
+<h4>124. Hexecontaedro medial pentagonal</h4>
+<a href="../vr/curve124.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/124A.png" class="foto" alt="fractal dragão de Eve de Hexecontaedro medial pentagonal"></a>
+ <br>Fractal dragão de Eve de hexecontaedro medial pentagonal.
+ <br>
+<hr>
+<h4>125. Pequeno hexecontaedro hexagonal</h4>
+<a href="../vr/curve125.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/125A.png" class="foto" alt="fractal dragão de Eve de Pequeno hexecontaedro hexagonal"></a>
+ <br>Fractal dragão de Eve de pequeno hexecontaedro hexagonal.
+ <br>
+<hr>
+<h4>126. Hexecontaedro medial icosacrônico</h4>
+<a href="../vr/curve126.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/126A.png" class="foto" alt="fractal dragão de Eve de Hexecontaedro medial icosacrônico"></a>
+ <br>Fractal dragão de Eve de hexecontaedro medial icosacrônico.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

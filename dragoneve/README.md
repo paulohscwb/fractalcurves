@@ -308,9 +308,9 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
  <br>Medial disdyakis triacontahedron dragon of Eve fractal.
  <br>
 <hr>
-<h4>55. Great triakis icosahedron</h4>
-<a href="vr/curve55.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto" alt="Great triakis icosahedron dragon of Eve fractal"></a>
- <br>Great triakis icosahedron dragon of Eve fractal.
+<h4>55. Joined truncated dodecahedron</h4>
+<a href="vr/curve55.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto" alt="Joined truncated dodecahedron dragon of Eve fractal"></a>
+ <br>Joined truncated dodecahedron dragon of Eve fractal.
  <br>
 <hr>
 <h4>56. Great disdyakis triacontahedron</h4>
@@ -642,6 +642,37 @@ Dragon of Eve curve was discovered by Jeffrey Ventrella in the 1980s, named afte
 <h4>120. Pine nut rosette</h4>
 <a href="vr/curve120.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/120A.png" class="foto" alt="Pine nut rosette dragon of Eve fractal"></a>
  <br>Pine nut rosette dragon of Eve fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>121. Small triambic icosahedron</h4>
+<a href="vr/curve121.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/121A.png" class="foto" alt="Small triambic icosahedron dragon of Eve fractal"></a>
+ <br>Small triambic icosahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>122. Medial deltoidal hexecontahedron</h4>
+<a href="vr/curve122.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/122A.png" class="foto" alt="Medial deltoidal hexecontahedron dragon of Eve fractal"></a>
+ <br>Medial deltoidal hexecontahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>123. Great dodecacronic hexecontahedron</h4>
+<a href="vr/curve123.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/123A.png" class="foto" alt="Great dodecacronic hexecontahedron dragon of Eve fractal"></a>
+ <br>Great dodecacronic hexecontahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>124. Medial pentagonal hexecontahedron</h4>
+<a href="vr/curve124.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/124A.png" class="foto" alt="Medial pentagonal hexecontahedron dragon of Eve fractal"></a>
+ <br>Medial pentagonal hexecontahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>125. Small hexagonal hexecontahedron</h4>
+<a href="vr/curve125.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/125A.png" class="foto" alt="Small hexagonal hexecontahedron dragon of Eve fractal"></a>
+ <br>Small hexagonal hexecontahedron dragon of Eve fractal.
+ <br>
+<hr>
+<h4>126. Medial icosacronic hexecontahedron</h4>
+<a href="vr/curve126.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/126A.png" class="foto" alt="Medial icosacronic hexecontahedron dragon of Eve fractal"></a>
+ <br>Medial icosacronic hexecontahedron dragon of Eve fractal.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
