@@ -68,247 +68,252 @@ function urlHandler(value) {
  <br>Fractal de árvore de Natal do grande icositetraedro hexacrônico.
  <br>
 <hr>
-<h4>8. Pequeno rombihexacro</h4>
+<h4>8. Dodecadodecaedro</h4>
+<a href="../vr/curve30.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/30A.png" class="foto" alt="fractal de árvore de Natal de Dodecadodecaedro"></a>
+ <br>Fractal de árvore de Natal do dodecadodecaedro
+ <br>
+<hr>
+<h4>9. Pequeno rombihexacro</h4>
 <a href="../vr/curve38.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/38A.png" class="foto" alt="fractal de árvore de Natal de pequeno rombihexacro"></a>
  <br>Fractal de árvore de Natal do pequeno rombihexacro.
  <br>
 <hr>
-<h4>9. Hexaedro tetradiakis</h4>
+<h4>10. Hexaedro tetradiakis</h4>
 <a href="../vr/curve45.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/45A.png" class="foto" alt="fractal de árvore de Natal de Hexaedro tetradiakis"></a>
  <br>Fractal de árvore de Natal do hexaedro tetradiakis.
  <br>
 <hr>
-<h4>10. Grande dodecaedro disdiakis</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>11. Grande dodecaedro disdiakis</h4>
 <a href="../vr/curve48.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/48A.png" class="foto" alt="fractal de árvore de Natal de Grande dodecaedro disdiakis"></a>
  <br>Fractal de árvore de Natal do grande dodecaedro disdiakis.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>11. Grande dodecaedro stellapentakis</h4>
+<h4>12. Grande dodecaedro stellapentakis</h4>
 <a href="../vr/curve53.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/53A.png" class="foto" alt="fractal de árvore de Natal de Grande dodecaedro stellapentakis"></a>
  <br>Fractal de árvore de Natal do grande dodecaedro stellapentakis.
  <br>
 <hr>
-<h4>12. Dodecaedro truncado combinado</h4>
+<h4>13. Dodecaedro truncado combinado</h4>
 <a href="../vr/curve55.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/55A.png" class="foto" alt="Fractal de árvore de Natal de Dodecaedro truncado combinado"></a>
  <br>Fractal de árvore de Natal de dodecaedro truncado combinado.
  <br>
 <hr>
-<h4>13. Cubo truncado combinado</h4>
+<h4>14. Cubo truncado combinado</h4>
 <a href="../vr/curve57.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/57A.png" class="foto" alt="fractal de árvore de Natal de Cubo truncado combinado"></a>
  <br>Fractal de árvore de Natal do cubo truncado combinado.
  <br>
 <hr>
-<h4>14. Octaedro chanfrado</h4>
+<h4>15. Octaedro chanfrado</h4>
 <a href="../vr/curve58.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/58A.png" class="foto" alt="fractal de árvore de Natal de Octaedro chanfrado"></a>
  <br>Fractal de árvore de Natal do octaedro chanfrado.
  <br>
 <hr>
-<h4>15. Octaedro triakis</h4>
+<h4>16. Octaedro triakis</h4>
 <a href="../vr/curve60.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/60A.png" class="foto" alt="fractal de árvore de Natal de Octaedro triakis"></a>
  <br>Fractal de árvore de Natal do octaedro triakis.
  <br>
 <hr>
-<h4>16. Mapa de Klein</h4>
+<h4>17. Mapa de Klein</h4>
 <a href="../vr/curve68.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/68A.png" class="foto" alt="fractal de árvore de Natal de Mapa de Klein"></a>
  <br>Fractal de árvore de Natal do mapa de Klein.
  <br>
 <hr>
-<h4>17. Toroide hexagonal</h4>
+<h4>18. Toroide hexagonal</h4>
 <a href="../vr/curve78.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/78A.png" class="foto" alt="fractal de árvore de Natal de Toroide hexagonal"></a>
  <br>Fractal de árvore de Natal do toroide hexagonal.
  <br>
 <hr>
-<h4>18. Mapa regular</h4>
+<h4>19. Mapa regular</h4>
 <a href="../vr/curve88.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/88A.png" class="foto" alt="fractal de árvore de Natal de Mapa regular"></a>
  <br>Fractal de árvore de Natal do mapa regular.
  <br>
 <hr>
-<h4>19. Prisma hexagonal</h4>
+<h4>20. Prisma hexagonal</h4>
 <a href="../vr/curve90.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/89A.png" class="foto" alt="Fractal de árvore de Natal de Prisma hexagonal"></a>
  <br>Fractal de árvore de Natal do prisma hexagonal.
  <br>
 <hr>
-<h4>20. Prisma octogrâmico</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>21. Prisma octogrâmico</h4>
 <a href="../vr/curve91.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/90A.png" class="foto" alt="Fractal de árvore de Natal de Prisma octogrâmico"></a>
  <br>Fractal de árvore de Natal do prisma octogrâmico.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>21. Dipirâmide pentagonal</h4>
+<h4>22. Dipirâmide pentagonal</h4>
 <a href="../vr/curve92.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/91A.png" class="foto" alt="Fractal de árvore de Natal de Dipirâmide pentagonal"></a>
  <br>Fractal de árvore de Natal da dipirâmide pentagonal.
  <br>
 <hr>
-<h4>22. Trapezoedro hexagonal</h4>
+<h4>23. Trapezoedro hexagonal</h4>
 <a href="../vr/curve93.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/92A.png" class="foto" alt="Fractal de árvore de Natal de Trapezoedro hexagonal"></a>
  <br>Fractal de árvore de Natal do trapezoedro hexagonal.
  <br>
 <hr>
-<h4>23. Dipirâmide pentagrâmica</h4>
+<h4>24. Dipirâmide pentagrâmica</h4>
 <a href="../vr/curve94.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/94A.png" class="foto" alt="Fractal de árvore de Natal de Dipirâmide pentagrâmica"></a>
  <br>Fractal de árvore de Natal da dipirâmide pentagrâmica.
  <br>
 <hr>
-<h4>24. Prisma hexagrâmico</h4>
+<h4>25. Prisma hexagrâmico</h4>
 <a href="../vr/curve95.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/95A.png" class="foto" alt="Fractal de árvore de Natal de Prisma hexagrâmico"></a>
  <br>Fractal de árvore de Natal do prisma hexagrâmico.
  <br>
 <hr>
-<h4>25. Nó toral</h4>
+<h4>26. Nó toral</h4>
 <a href="../vr/curve96.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/96A.png" class="foto" alt="Fractal de árvore de Natal de Nó toral"></a>
  <br>Fractal de árvore de Natal de nó toral.
  <br>
 <hr>
-<h4>26. Toro</h4>
+<h4>27. Toro</h4>
 <a href="../vr/curve97.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/97A.png" class="foto" alt="Fractal de árvore de Natal de toro"></a>
  <br>Fractal de árvore de Natal de toro.
  <br>
 <hr>
-<h4>27. Toroide tetragonal regular estrelado hexagonal</h4>
+<h4>28. Toroide tetragonal regular estrelado hexagonal</h4>
 <a href="../vr/curve98.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/98A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado hexagonal"></a>
  <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado hexagonal.
  <br>
 <hr>
-<h4>28. Toroide tetragonal regular senoidal estrelado hexagonal</h4>
+<h4>29. Toroide tetragonal regular senoidal estrelado hexagonal</h4>
 <a href="../vr/curve99.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/99A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular senoidal estrelado hexagonal"></a>
  <br>Fractal de árvore de Natal do toroide tetragonal regular senoidal estrelado hexagonal.
  <br>
 <hr>
-<h4>29. Poliedro flor da vida</h4>
+<h4>30. Poliedro flor da vida</h4>
 <a href="../vr/curve100.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/100A.png" class="foto" alt="Fractal de árvore de Natal do Poliedro flor da vida"></a>
  <br>Fractal de árvore de Natal do poliedro flor da vida.
  <br>
 <hr>
-<h4>30. Poliedro lemniscata</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>31. Poliedro lemniscata</h4>
 <a href="../vr/curve101.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/101A.png" class="foto" alt="Fractal de árvore de Natal do Poliedro lemniscata"></a>
  <br>Fractal de árvore de Natal do poliedro lemniscata.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>31. Estrela hexagrâmica</h4>
+<h4>32. Estrela hexagrâmica</h4>
 <a href="../vr/curve102.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/102A.png" class="foto" alt="Fractal de árvore de Natal da Estrela hexagrâmica"></a>
  <br>Fractal de árvore de Natal da estrela hexagrâmica.
  <br>
 <hr>
-<h4>32. Estrela pentagrâmica</h4>
+<h4>33. Estrela pentagrâmica</h4>
 <a href="../vr/curve103.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/103A.png" class="foto" alt="Fractal de árvore de Natal da Estrela pentagrâmica"></a>
  <br>Fractal de árvore de Natal da estrela pentagrâmica.
  <br>
 <hr>
-<h4>33. Hélice cilíndrica</h4>
+<h4>34. Hélice cilíndrica</h4>
 <a href="../vr/curve104.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/104A.png" class="foto" alt="Fractal de árvore de Natal da Hélice cilíndrica"></a>
  <br>Fractal de árvore de Natal da hélice cilíndrica.
  <br>
 <hr>
-<h4>34. Flor da vida</h4>
+<h4>35. Flor da vida</h4>
 <a href="../vr/curve105.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/105A.png" class="foto" alt="Fractal de árvore de Natal da Flor da vida"></a>
  <br>Fractal de árvore de Natal da flor da vida.
  <br>
 <hr>
-<h4>35. Flor da vida</h4>
+<h4>36. Flor da vida</h4>
 <a href="../vr/curve106.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/106A.png" class="foto" alt="Fractal de árvore de Natal da Flor da vida"></a>
  <br>Fractal de árvore de Natal da flor da vida.
  <br>
 <hr>
-<h4>36. Trevo de quatro folhas</h4>
+<h4>37. Trevo de quatro folhas</h4>
 <a href="../vr/curve107.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/107A.png" class="foto" alt="Fractal de árvore de Natal da trevo de quatro folhas"></a>
  <br>Fractal de árvore de Natal do trevo de quatro folhas.
  <br>
 <hr>
-<h4>37. Borboleta</h4>
+<h4>38. Borboleta</h4>
 <a href="../vr/curve108.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/108A.png" class="foto" alt="Fractal de árvore de Natal da Borboleta"></a>
  <br>Fractal de árvore de Natal de borboleta.
  <br>
 <hr>
-<h4>38. Borboleta</h4>
+<h4>39. Borboleta</h4>
 <a href="../vr/curve109.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/109A.png" class="foto" alt="Fractal de árvore de Natal da Borboleta"></a>
  <br>Fractal de árvore de Natal de borboleta.
  <br>
 <hr>
-<h4>39. Garfield</h4>
+<h4>40. Garfield</h4>
 <a href="../vr/curve110.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/110A.png" class="foto" alt="Fractal de árvore de Natal da Garfield"></a>
  <br>Fractal de árvore de Natal do Garfield.
  <br>
 <hr>
-<h4>40. Toroide tetragonal regular estrelado pentagonal</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>41. Toroide tetragonal regular estrelado pentagonal</h4>
 <a href="../vr/curve111.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/111A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado pentagonal"></a>
  <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado pentagonal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>41. Toroide tetragonal regular estrelado heptagonal</h4>
+<h4>42. Toroide tetragonal regular estrelado heptagonal</h4>
 <a href="../vr/curve112.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/112A.png" class="foto" alt="Fractal de árvore de Natal de Toroide tetragonal regular estrelado heptagonal"></a>
  <br>Fractal de árvore de Natal do toroide tetragonal regular estrelado heptagonal.
  <br>
 <hr>
-<h4>42. Grande dodecicosácrono</h4>
+<h4>43. Grande dodecicosácrono</h4>
 <a href="../vr/curve113.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/113A.png" class="foto" alt="Fractal de árvore de Natal de Grande dodecicosácrono"></a>
  <br>Fractal de árvore de Natal de grande dodecicosácrono.
  <br>
 <hr>
-<h4>43. Grande icosaedro</h4>
+<h4>44. Grande icosaedro</h4>
 <a href="../vr/curve114.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/114A.png" class="foto" alt="Fractal de árvore de Natal de Grande icosaedro"></a>
  <br>Fractal de árvore de Natal de grande icosaedro.
  <br>
 <hr>
-<h4>44. Triacontaedro rômbico medial</h4>
+<h4>45. Triacontaedro rômbico medial</h4>
 <a href="../vr/curve115.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/115A.png" class="foto" alt="Fractal de árvore de Natal de Triacontaedro rômbico medial"></a>
  <br>Fractal de árvore de Natal de triacontaedro rômbico medial.
  <br>
 <hr>
-<h4>45. Octaedro hexakis de Möbius</h4>
+<h4>46. Octaedro hexakis de Möbius</h4>
 <a href="../vr/curve116.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/116A.png" class="foto" alt="Fractal de árvore de Natal de Octaedro hexakis de Möbius"></a>
  <br>Fractal de árvore de Natal de octaedro hexakis de Möbius.
  <br>
 <hr>
-<h4>46. Hexaedro octakis de Möbius</h4>
+<h4>47. Hexaedro octakis de Möbius</h4>
 <a href="../vr/curve117.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/117A.png" class="foto" alt="Fractal de árvore de Natal de Hexaedro octakis de Möbius"></a>
  <br>Fractal de árvore de Natal de hexaedro octakis de Möbius.
  <br>
 <hr>
-<h4>47. Deltaedro de Möbius</h4>
+<h4>48. Deltaedro de Möbius</h4>
 <a href="../vr/curve118.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/118A.png" class="foto" alt="Fractal de árvore de Natal de Deltaedro de Möbius"></a>
  <br>Fractal de árvore de Natal do deltaedro de Möbius.
  <br>
 <hr>
-<h4>48. Floco de neve</h4>
+<h4>49. Floco de neve</h4>
 <a href="../vr/curve119.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/119A.png" class="foto" alt="Fractal de árvore de Natal de Floco de neve"></a>
  <br>Fractal de árvore de Natal de floco de neve.
  <br>
 <hr>
-<h4>49. Rosácea de pinhão</h4>
+<h4>50. Rosácea de pinhão</h4>
 <a href="../vr/curve120.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/120A.png" class="foto" alt="Fractal de árvore de Natal de rosácea de pinhão"></a>
  <br>Fractal de árvore de Natal de rosácea de pinhão.
  <br>
 <hr>
-<h4>50. Pequeno icosaedro triâmbico</h4>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>51. Pequeno icosaedro triâmbico</h4>
 <a href="../vr/curve121.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/121A.png" class="foto" alt="Fractal de árvore de Natal de Pequeno icosaedro triâmbico"></a>
  <br>Fractal de árvore de Natal de pequeno icosaedro triâmbico.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>51. Hexecontaedro deltoidal medial</h4>
+<h4>52. Hexecontaedro deltoidal medial</h4>
 <a href="../vr/curve122.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/122A.png" class="foto" alt="Fractal de árvore de Natal de Hexecontaedro deltoidal medial"></a>
  <br>Fractal de árvore de Natal de hexecontaedro deltoidal medial.
  <br>
 <hr>
-<h4>52. Grande hexecontaedro dodecacrônico</h4>
+<h4>53. Grande hexecontaedro dodecacrônico</h4>
 <a href="../vr/curve123.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/123A.png" class="foto" alt="Fractal de árvore de Natal de Grande hexecontaedro dodecacrônico"></a>
  <br>Fractal de árvore de Natal de grande hexecontaedro dodecacrônico.
  <br>
 <hr>
-<h4>53. Hexecontaedro medial pentagonal</h4>
+<h4>54. Hexecontaedro medial pentagonal</h4>
 <a href="../vr/curve124.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/124A.png" class="foto" alt="Fractal de árvore de Natal de Hexecontaedro medial pentagonal"></a>
  <br>Fractal de árvore de Natal de hexecontaedro medial pentagonal.
  <br>
 <hr>
-<h4>54. Pequeno hexecontaedro hexagonal</h4>
+<h4>55. Pequeno hexecontaedro hexagonal</h4>
 <a href="../vr/curve125.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/125A.png" class="foto" alt="Fractal de árvore de Natal de Pequeno hexecontaedro hexagonal"></a>
  <br>Fractal de árvore de Natal de pequeno hexecontaedro hexagonal.
  <br>
 <hr>
-<h4>55. Hexecontaedro medial icosacrônico</h4>
+<h4>56. Hexecontaedro medial icosacrônico</h4>
 <a href="../vr/curve126.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/126A.png" class="foto" alt="Fractal de árvore de Natal de Hexecontaedro medial icosacrônico"></a>
  <br>Fractal de árvore de Natal de hexecontaedro medial icosacrônico.
  <br>

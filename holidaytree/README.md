@@ -68,247 +68,252 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Great hexacronic icositetrahedron holiday tree fractal.
  <br>
 <hr>
-<h4>8. Small rhombihexacron</h4>
+<h4>8. Dodecadodecahedron</h4>
+<a href="vr/curve30.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/30A.png" class="foto" alt="Dodecadodecahedron holiday tree fractal"></a>
+ <br>Dodecadodecahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>9. Small rhombihexacron</h4>
 <a href="vr/curve38.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/38A.png" class="foto" alt="Small rhombihexacron holiday tree fractal"></a>
  <br>Small rhombihexacron holiday tree fractal.
  <br>
 <hr>
-<h4>9. Tetradyakis hexahedron</h4>
+<h4>10. Tetradyakis hexahedron</h4>
 <a href="vr/curve45.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/45A.png" class="foto" alt="Tetradyakis hexahedron holiday tree fractal"></a>
  <br>Tetradyakis hexahedron holiday tree fractal.
  <br>
 <hr>
-<h4>10. Great disdyakis dodecahedron</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>11. Great disdyakis dodecahedron</h4>
 <a href="vr/curve48.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/48A.png" class="foto" alt="Great disdyakis dodecahedron holiday tree fractal"></a>
  <br>Great disdyakis dodecahedron holiday tree fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Great stellapentakis dodecahedron</h4>
+<h4>12. Great stellapentakis dodecahedron</h4>
 <a href="vr/curve53.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/53A.png" class="foto" alt="Great stellapentakis dodecahedron holiday tree fractal"></a>
  <br>Great stellapentakis dodecahedron holiday tree fractal.
  <br>
 <hr>
-<h4>12. Joined truncated dodecahedron</h4>
+<h4>13. Joined truncated dodecahedron</h4>
 <a href="vr/curve55.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/55A.png" class="foto" alt="Joined truncated dodecahedron holiday tree fractal"></a>
  <br>Joined truncated dodecahedron holiday tree fractal.
  <br>
 <hr>
-<h4>13. Joined truncated cube</h4>
+<h4>14. Joined truncated cube</h4>
 <a href="vr/curve57.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/57A.png" class="foto" alt="Joined truncated cube holiday tree fractal"></a>
  <br>Joined truncated cube holiday tree fractal.
  <br>
 <hr>
-<h4>14. Chamfered octahedron</h4>
+<h4>15. Chamfered octahedron</h4>
 <a href="vr/curve58.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/58A.png" class="foto" alt="Chamfered octahedron holiday tree fractal"></a>
  <br>Chamfered octahedron holiday tree fractal.
  <br>
 <hr>
-<h4>15. Triakis octahedron</h4>
+<h4>16. Triakis octahedron</h4>
 <a href="vr/curve60.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/60A.png" class="foto" alt="Triakis octahedron holiday tree fractal"></a>
  <br>Triakis octahedron holiday tree fractal.
  <br>
 <hr>
-<h4>16. Klein map</h4>
+<h4>17. Klein map</h4>
 <a href="vr/curve68.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/68A.png" class="foto" alt="Klein map holiday tree fractal"></a>
  <br>Klein map holiday tree fractal.
  <br>
 <hr>
-<h4>17. Hexagonal toroid</h4>
+<h4>18. Hexagonal toroid</h4>
 <a href="vr/curve78.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/78A.png" class="foto" alt="Hexagonal toroid holiday tree fractal"></a>
  <br>Hexagonal toroid holiday tree fractal.
  <br>
 <hr>
-<h4>18. Regular map</h4>
+<h4>19. Regular map</h4>
 <a href="vr/curve88.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/88A.png" class="foto" alt="Regular map holiday tree fractal"></a>
  <br>Regular map holiday tree fractal.
  <br>
 <hr>
-<h4>19. Hexagonal prism</h4>
+<h4>20. Hexagonal prism</h4>
 <a href="vr/curve90.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/89A.png" class="foto" alt="Hexagonal prism holiday tree fractal"></a>
  <br>Hexagonal prism holiday tree fractal.
  <br>
 <hr>
-<h4>20. Octagrammic prism</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Octagrammic prism</h4>
 <a href="vr/curve91.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/90A.png" class="foto" alt="Octagrammic prism holiday tree fractal"></a>
  <br>Octagrammic prism holiday tree fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>21. Pentagonal dipyramid</h4>
+<h4>22. Pentagonal dipyramid</h4>
 <a href="vr/curve92.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/91A.png" class="foto" alt="Pentagonal dipyramid holiday tree fractal"></a>
  <br>Pentagonal dipyramid holiday tree fractal.
  <br>
 <hr>
-<h4>22. Hexagonal trapezohedron</h4>
+<h4>23. Hexagonal trapezohedron</h4>
 <a href="vr/curve93.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/92A.png" class="foto" alt="Hexagonal trapezohedron holiday tree fractal"></a>
  <br>Hexagonal trapezohedron holiday tree fractal.
  <br>
 <hr>
-<h4>23. Pentagrammic dipyramid</h4>
+<h4>24. Pentagrammic dipyramid</h4>
 <a href="vr/curve94.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/94A.png" class="foto" alt="Pentagrammic dipyramid holiday tree fractal"></a>
  <br>Pentagrammic dipyramid holiday tree fractal.
  <br>
 <hr>
-<h4>24. Hexagrammic prism</h4>
+<h4>25. Hexagrammic prism</h4>
 <a href="vr/curve95.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/95A.png" class="foto" alt="Hexagrammic prism holiday tree fractal"></a>
  <br>Hexagrammic prism holiday tree fractal.
  <br>
 <hr>
-<h4>25. Torus knot</h4>
+<h4>26. Torus knot</h4>
 <a href="vr/curve96.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/96A.png" class="foto" alt="Torus knot holiday tree fractal"></a>
  <br>Torus knot holiday tree fractal.
  <br>
 <hr>
-<h4>26. Torus</h4>
+<h4>27. Torus</h4>
 <a href="vr/curve97.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/97A.png" class="foto" alt="Torus holiday tree fractal"></a>
  <br>Torus holiday tree fractal.
  <br>
 <hr>
-<h4>27. Hexagonal regular star tetragonal toroid</h4>
+<h4>28. Hexagonal regular star tetragonal toroid</h4>
 <a href="vr/curve98.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/98A.png" class="foto" alt="Hexagonal regular star tetragonal toroid holiday tree fractal"></a>
  <br>Hexagonal regular star tetragonal toroid holiday tree fractal.
  <br>
 <hr>
-<h4>28. Hexagonal regular sinusoidal tetragonal toroid</h4>
+<h4>29. Hexagonal regular sinusoidal tetragonal toroid</h4>
 <a href="vr/curve99.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/99A.png" class="foto" alt="Hexagonal regular sinusoidal tetragonal toroid holiday tree fractal"></a>
  <br>Hexagonal regular sinusoidal tetragonal toroid holiday tree fractal.
  <br>
 <hr>
-<h4>29. Flower of life polyhedra</h4>
+<h4>30. Flower of life polyhedra</h4>
 <a href="vr/curve100.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/100A.png" class="foto" alt="Flower of life polyhedra holiday tree fractal"></a>
  <br>Flower of life polyhedra holiday tree fractal.
  <br>
 <hr>
-<h4>30. Lemniscata polyhedra</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>31. Lemniscata polyhedra</h4>
 <a href="vr/curve101.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/101A.png" class="foto" alt="Lemniscata polyhedra holiday tree fractal"></a>
  <br>Lemniscata polyhedra holiday tree fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>31. Hexagrammic star</h4>
+<h4>32. Hexagrammic star</h4>
 <a href="vr/curve102.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/102A.png" class="foto" alt="Hexagrammic star holiday tree fractal"></a>
  <br>Hexagrammic star holiday tree fractal.
  <br>
 <hr>
-<h4>32. Pentagrammic star</h4>
+<h4>33. Pentagrammic star</h4>
 <a href="vr/curve103.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/103A.png" class="foto" alt="Pentagrammic star holiday tree fractal"></a>
  <br>Pentagrammic star holiday tree fractal.
  <br>
 <hr>
-<h4>33. Cylindrical helix</h4>
+<h4>34. Cylindrical helix</h4>
 <a href="vr/curve104.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/104A.png" class="foto" alt="Cylindrical helix holiday tree fractal"></a>
  <br>Cylindrical helix holiday tree fractal.
  <br>
 <hr>
-<h4>34. Flower of life</h4>
+<h4>35. Flower of life</h4>
 <a href="vr/curve105.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/105A.png" class="foto" alt="Flower of life holiday tree fractal"></a>
  <br>Flower of life holiday tree fractal.
  <br>
 <hr>
-<h4>35. Flower of life</h4>
+<h4>36. Flower of life</h4>
 <a href="vr/curve106.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/106A.png" class="foto" alt="Flower of life holiday tree fractal"></a>
  <br>Flower of life holiday tree fractal.
  <br>
 <hr>
-<h4>36. Four-leaf clover</h4>
+<h4>37. Four-leaf clover</h4>
 <a href="vr/curve107.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/107A.png" class="foto" alt="Four-leaf clover holiday tree fractal"></a>
  <br>Four-leaf clover holiday tree fractal.
  <br>
 <hr>
-<h4>37. Butterfly</h4>
+<h4>38. Butterfly</h4>
 <a href="vr/curve108.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/108A.png" class="foto" alt="Butterfly holiday tree fractal"></a>
  <br>Butterfly holiday tree fractal.
  <br>
 <hr>
-<h4>38. Butterfly</h4>
+<h4>39. Butterfly</h4>
 <a href="vr/curve109.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/109A.png" class="foto" alt="Butterfly holiday tree fractal"></a>
  <br>Butterfly holiday tree fractal.
  <br>
 <hr>
-<h4>39. Garfield</h4>
+<h4>40. Garfield</h4>
 <a href="vr/curve110.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/110A.png" class="foto" alt="Garfield holiday tree fractal"></a>
  <br>Garfield holiday tree fractal.
  <br>
 <hr>
-<h4>40. Pentagonal regular star tetragonal toroid</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>41. Pentagonal regular star tetragonal toroid</h4>
 <a href="vr/curve111.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/111A.png" class="foto" alt="Pentagonal regular star tetragonal toroid holiday tree fractal"></a>
  <br>Pentagonal regular star tetragonal toroid holiday tree fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>41. Heptagonal regular star tetragonal toroid</h4>
+<h4>42. Heptagonal regular star tetragonal toroid</h4>
 <a href="vr/curve112.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/112A.png" class="foto" alt="Heptagonal regular star tetragonal toroid holiday tree fractal"></a>
  <br>Heptagonal regular star tetragonal toroid holiday tree fractal.
  <br>
 <hr>
-<h4>42. Great dodecicosacron</h4>
+<h4>43. Great dodecicosacron</h4>
 <a href="vr/curve113.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/113A.png" class="foto" alt="Great dodecicosacron holiday tree fractal"></a>
  <br>Great dodecicosacron holiday tree fractal.
  <br>
 <hr>
-<h4>43. Great icosahedron</h4>
+<h4>44. Great icosahedron</h4>
 <a href="vr/curve114.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/114A.png" class="foto" alt="Great icosahedron holiday tree fractal"></a>
  <br>Great icosahedron holiday tree fractal.
  <br>
 <hr>
-<h4>44. Medial rhombic triacontahedron</h4>
+<h4>45. Medial rhombic triacontahedron</h4>
 <a href="vr/curve115.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/115A.png" class="foto" alt="Medial rhombic triacontahedron holiday tree fractal"></a>
  <br>Medial rhombic triacontahedron holiday tree fractal.
  <br>
 <hr>
-<h4>45. Möbius hexakis octahedron</h4>
+<h4>46. Möbius hexakis octahedron</h4>
 <a href="vr/curve116.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/116A.png" class="foto" alt="Möbius hexakis octahedron holiday tree fractal"></a>
  <br>Möbius hexakis octahedron holiday tree fractal.
  <br>
 <hr>
-<h4>46. Möbius octakis hexahedron</h4>
+<h4>47. Möbius octakis hexahedron</h4>
 <a href="vr/curve117.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/117A.png" class="foto" alt="Möbius octakis hexahedron holiday tree fractal"></a>
  <br>Möbius octakis hexahedron holiday tree fractal.
  <br>
 <hr>
-<h4>47. Möbius deltahedron</h4>
+<h4>48. Möbius deltahedron</h4>
 <a href="vr/curve118.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/118A.png" class="foto" alt="Möbius deltahedron holiday tree fractal"></a>
  <br>Möbius deltahedron holiday tree fractal.
  <br>
 <hr>
-<h4>48. Snowflake</h4>
+<h4>49. Snowflake</h4>
 <a href="vr/curve119.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/119A.png" class="foto" alt="Snowflake holiday tree fractal"></a>
  <br>Snowflake holiday tree fractal.
  <br>
 <hr>
-<h4>49. Pine nut rosette</h4>
+<h4>50. Pine nut rosette</h4>
 <a href="vr/curve120.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/120A.png" class="foto" alt="Pine nut rosette holiday tree fractal"></a>
  <br>Pine nut rosette holiday tree fractal.
  <br>
 <hr>
-<h4>50. Small triambic icosahedron</h4>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>51. Small triambic icosahedron</h4>
 <a href="vr/curve121.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/121A.png" class="foto" alt="Small triambic icosahedron holiday tree fractal"></a>
  <br>Small triambic icosahedron holiday tree fractal.
  <br>
 <hr>
-<p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>51. Medial deltoidal hexecontahedron</h4>
+<h4>52. Medial deltoidal hexecontahedron</h4>
 <a href="vr/curve122.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/122A.png" class="foto" alt="Medial deltoidal hexecontahedron holiday tree fractal"></a>
  <br>Medial deltoidal hexecontahedron holiday tree fractal.
  <br>
 <hr>
-<h4>52. Great dodecacronic hexecontahedron</h4>
+<h4>53. Great dodecacronic hexecontahedron</h4>
 <a href="vr/curve123.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/123A.png" class="foto" alt="Great dodecacronic hexecontahedron holiday tree fractal"></a>
  <br>Great dodecacronic hexecontahedron holiday tree fractal.
  <br>
 <hr>
-<h4>53. Medial pentagonal hexecontahedron</h4>
+<h4>54. Medial pentagonal hexecontahedron</h4>
 <a href="vr/curve124.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/124A.png" class="foto" alt="Medial pentagonal hexecontahedron holiday tree fractal"></a>
  <br>Medial pentagonal hexecontahedron holiday tree fractal.
  <br>
 <hr>
-<h4>54. Small hexagonal hexecontahedron</h4>
+<h4>55. Small hexagonal hexecontahedron</h4>
 <a href="vr/curve125.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/125A.png" class="foto" alt="Small hexagonal hexecontahedron holiday tree fractal"></a>
  <br>Small hexagonal hexecontahedron holiday tree fractal.
  <br>
 <hr>
-<h4>55. Medial icosacronic hexecontahedron</h4>
+<h4>56. Medial icosacronic hexecontahedron</h4>
 <a href="vr/curve126.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/126A.png" class="foto" alt="Medial icosacronic hexecontahedron holiday tree fractal"></a>
  <br>Medial icosacronic hexecontahedron holiday tree fractal.
  <br>
