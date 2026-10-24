@@ -497,6 +497,16 @@ function urlHandler(value) {
  <br>Fractal da curva do E.T. de estrela hexagrâmica.
  <br>
 <hr>
+<h4>92. Toroide tetragonal regular estrelado heptagonal</h4>
+<a href="../vr/curve112.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/112A.png" class="foto" alt="Fractal da curva do E.T. de Toroide tetragonal regular estrelado heptagonal"></a>
+ <br>Fractal da curva do E.T. de toroide tetragonal regular estrelado heptagonal.
+ <br>
+<hr>
+<h4>93. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/curve122.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/122A.png" class="foto" alt="Fractal da curva do E.T. de Hexecontaedro deltoidal medial"></a>
+ <br>Fractal da curva do E.T. de hexecontaedro deltoidal medial.
+ <br>
+<hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">E.T. curve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/et/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
