@@ -131,13 +131,23 @@ function urlHandler(value) {
 <hr>
 <h4>20. Grande dodecicosácrono</h4>
 <a href="../vr/curve113.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/113A.png" class="foto" alt="Fractal da curva do gato de Grande dodecicosácrono"></a>
- <br>Fractal da curva do gato da grande dodecicosácrono.
+ <br>Fractal da curva do gato de grande dodecicosácrono.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 <h4>21. Grande hexecontaedro dodecacrônico</h4>
 <a href="../vr/curve123.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/123A.png" class="foto" alt="Fractal da curva do gato de Grande hexecontaedro dodecacrônico"></a>
- <br>Fractal da curva do gato da grande hexecontaedro dodecacrônico.
+ <br>Fractal da curva do gato de grande hexecontaedro dodecacrônico.
+ <br>
+<hr>
+<h4>22. Dodecaedro disdiakis</h4>
+<a href="../vr/curve133.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto" alt="Fractal da curva do gato de Dodecaedro disdiakis"></a>
+ <br>Fractal da curva do gato de dodecaedro disdiakis.
+ <br>
+<hr>
+<h4>23. Icosaedro hexakis de Möbius</h4>
+<a href="../vr/curve143.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/143A.png" class="foto" alt="Fractal da curva do gato de Icosaedro hexakis de Möbius"></a>
+ <br>Fractal da curva do gato de icosaedro hexakis de Möbius.
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>

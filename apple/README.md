@@ -135,6 +135,12 @@ The apple fractal curve is defined by seven equal-sized segments generated in ea
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>21. Great stellated dodecahedron</h4>
+<a href="vr/curve137.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/137A.png" class="foto" alt="Great stellated dodecahedron Apple curve fractal"></a>
+ <br>Apple curve fractal of great stellated dodecahedron.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Apple curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/apple/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 

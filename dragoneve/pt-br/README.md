@@ -680,6 +680,94 @@ function urlHandler(value) {
  <br>Fractal dragão de Eve de pinhão.
  <br>
 <hr>
+<h4>128. Deltaedro de Möbius</h4>
+<a href="../vr/curve128.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/128A.png" class="foto" alt="fractal dragão de Eve de Deltaedro de Möbius"></a>
+ <br>Fractal dragão de Eve do deltaedro de Möbius.
+ <br>
+<hr>
+<h4>129. Hexaedro octakis de Möbius</h4>
+<a href="../vr/curve129.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/129A.png" class="foto" alt="fractal dragão de Eve de Hexaedro octakis de Möbius"></a>
+ <br>Fractal dragão de Eve de hexaedro octakis de Möbius.
+ <br>
+<hr>
+<h4>130. Octaedro hexakis de Möbius</h4>
+<a href="../vr/curve130.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/130A.png" class="foto" alt="fractal dragão de Eve de Octaedro hexakis de Möbius"></a>
+ <br>Fractal dragão de Eve de octaedro hexakis de Möbius.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>131. Icosaedro hexakis de Möbius</h4>
+<a href="../vr/curve131.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/131A.png" class="foto" alt="fractal dragão de Eve de Icosaedro hexakis de Möbius"></a>
+ <br>Fractal dragão de Eve de icosaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>132. Dodecaedro 10-akis de Möbius</h4>
+<a href="../vr/curve132.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/132A.png" class="foto" alt="fractal dragão de Eve de Dodecaedro 10-akis de Möbius"></a>
+ <br>Fractal dragão de Eve de dodecaedro 10-akis de Möbius.
+ <br>
+<hr>
+<h4>133. Dodecaedro disdiakis</h4>
+<a href="../vr/curve133.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto" alt="fractal dragão de Eve de Dodecaedro disdiakis"></a>
+ <br>Fractal dragão de Eve de dodecaedro disdiakis.
+ <br>
+<hr>
+<h4>134. Sólido de Escher</h4>
+<a href="../vr/curve134.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/134A.png" class="foto" alt="fractal dragão de Eve de Sólido de Escher"></a>
+ <br>Fractal dragão de Eve de sólido de Escher.
+ <br>
+<hr>
+<h4>135. Grande dodecaedro disdiakis</h4>
+<a href="../vr/curve135.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/135A.png" class="foto" alt="fractal dragão de Eve de Grande dodecaedro disdiakis"></a>
+ <br>Fractal dragão de Eve de grande dodecaedro disdiakis.
+ <br>
+<hr>
+<h4>136. Grande rombihexacro</h4>
+<a href="../vr/curve136.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/136A.png" class="foto" alt="fractal dragão de Eve de Grande rombihexacro"></a>
+ <br>Fractal dragão de Eve de grande rombihexacro.
+ <br>
+<hr>
+<h4>137. Grande dodecaedro estrelado</h4>
+<a href="../vr/curve137.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/137A.png" class="foto" alt="fractal dragão de Eve de Grande dodecaedro estrelado"></a>
+ <br>Fractal dragão de Eve de grande dodecaedro estrelado.
+ <br>
+<hr>
+<h4>138. Grande icosaedro triâmbico</h4>
+<a href="../vr/curve138.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/138A.png" class="foto" alt="fractal dragão de Eve de Grande icosaedro triâmbico"></a>
+ <br>Fractal dragão de Eve de grande icosaedro triâmbico.
+ <br>
+<hr>
+<h4>139. Dipirâmide heptagrâmica</h4>
+<a href="../vr/curve139.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/139A.png" class="foto" alt="fractal dragão de Eve de Dipirâmide heptagrâmica"></a>
+ <br>Fractal dragão de Eve de dipirâmide heptagrâmica.
+ <br>
+<hr>
+<h4>140. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/curve140.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/140A.png" class="foto" alt="fractal dragão de Eve de Hexecontaedro deltoidal medial"></a>
+ <br>Fractal dragão de Eve de hexecontaedro deltoidal medial.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>141. Hexecontaedro icosacrônico medial</h4>
+<a href="../vr/curve141.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/141A.png" class="foto" alt="fractal dragão de Eve de Hexecontaedro icosacrônico medial"></a>
+ <br>Fractal dragão de Eve de hexecontaedro icosacrônico medial.
+ <br>
+<hr>
+<h4>142. Icosaedro triâmbico medial</h4>
+<a href="../vr/curve142.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/142A.png" class="foto" alt="fractal dragão de Eve de Icosaedro triâmbico medial"></a>
+ <br>Fractal dragão de Eve de icosaedro triâmbico medial.
+ <br>
+<hr>
+<h4>143. Icosaedro hexakis de Möbius</h4>
+<a href="../vr/curve143.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/143A.png" class="foto" alt="fractal dragão de Eve de Icosaedro hexakis de Möbius"></a>
+ <br>Fractal dragão de Eve de icosaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>144. Dodecaedro 10-akis de Möbius</h4>
+<a href="../vr/curve144.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/144A.png" class="foto" alt="fractal dragão de Eve de Dodecaedro 10-akis de Möbius"></a>
+ <br>Fractal dragão de Eve de dodecaedro 10-akis de Möbius.
+ <br>
+<hr>
+
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Dragon of Eve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/dragoneve/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

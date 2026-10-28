@@ -323,6 +323,94 @@ function urlHandler(value) {
  <br>Fractal de árvore de Natal de pinhão.
  <br>
 <hr>
+<h4>58. Deltaedro de Möbius</h4>
+<a href="../vr/curve128.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/128A.png" class="foto" alt="Fractal de árvore de Natal de Deltaedro de Möbius"></a>
+ <br>Fractal de árvore de Natal do deltaedro de Möbius.
+ <br>
+<hr>
+<h4>59. Hexaedro octakis de Möbius</h4>
+<a href="../vr/curve129.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/129A.png" class="foto" alt="Fractal de árvore de Natal de Hexaedro octakis de Möbius"></a>
+ <br>Fractal de árvore de Natal de hexaedro octakis de Möbius.
+ <br>
+<hr>
+<h4>60. Octaedro hexakis de Möbius</h4>
+<a href="../vr/curve130.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/130A.png" class="foto" alt="Fractal de árvore de Natal de Octaedro hexakis de Möbius"></a>
+ <br>Fractal de árvore de Natal de octaedro hexakis de Möbius.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>61. Icosaedro hexakis de Möbius</h4>
+<a href="../vr/curve131.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/131A.png" class="foto" alt="Fractal de árvore de Natal de Icosaedro hexakis de Möbius"></a>
+ <br>Fractal de árvore de Natal de icosaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>62. Dodecaedro 10-akis de Möbius</h4>
+<a href="../vr/curve132.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/132A.png" class="foto" alt="Fractal de árvore de Natal de Dodecaedro 10-akis de Möbius"></a>
+ <br>Fractal de árvore de Natal de dodecaedro 10-akis de Möbius.
+ <br>
+<hr>
+<h4>63. Dodecaedro disdiakis</h4>
+<a href="../vr/curve133.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/133A.png" class="foto" alt="Fractal de árvore de Natal de Dodecaedro disdiakis"></a>
+ <br>Fractal de árvore de Natal de dodecaedro disdiakis.
+ <br>
+<hr>
+<h4>64. Sólido de Escher</h4>
+<a href="../vr/curve134.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/134A.png" class="foto" alt="Fractal de árvore de Natal de Sólido de Escher"></a>
+ <br>Fractal de árvore de Natal de sólido de Escher.
+ <br>
+<hr>
+<h4>65. Grande dodecaedro disdiakis</h4>
+<a href="../vr/curve135.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/135A.png" class="foto" alt="Fractal de árvore de Natal de Grande dodecaedro disdiakis"></a>
+ <br>Fractal de árvore de Natal de grande dodecaedro disdiakis.
+ <br>
+<hr>
+<h4>66. Grande rombihexacro</h4>
+<a href="../vr/curve136.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/136A.png" class="foto" alt="Fractal de árvore de Natal de Grande rombihexacro"></a>
+ <br>Fractal de árvore de Natal de grande rombihexacro.
+ <br>
+<hr>
+<h4>67. Grande dodecaedro estrelado</h4>
+<a href="../vr/curve137.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/137A.png" class="foto" alt="Fractal de árvore de Natal de Grande dodecaedro estrelado"></a>
+ <br>Fractal de árvore de Natal de grande dodecaedro estrelado.
+ <br>
+<hr>
+<h4>68. Grande icosaedro triâmbico</h4>
+<a href="../vr/curve138.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/138A.png" class="foto" alt="Fractal de árvore de Natal de Grande icosaedro triâmbico"></a>
+ <br>Fractal de árvore de Natal de grande icosaedro triâmbico.
+ <br>
+<hr>
+<h4>69. Dipirâmide heptagrâmica</h4>
+<a href="../vr/curve139.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/139A.png" class="foto" alt="Fractal de árvore de Natal de Dipirâmide heptagrâmica"></a>
+ <br>Fractal de árvore de Natal de dipirâmide heptagrâmica.
+ <br>
+<hr>
+<h4>70. Hexecontaedro deltoidal medial</h4>
+<a href="../vr/curve140.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/140A.png" class="foto" alt="Fractal de árvore de Natal de Hexecontaedro deltoidal medial"></a>
+ <br>Fractal de árvore de Natal de hexecontaedro deltoidal medial.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
+<h4>71. Hexecontaedro icosacrônico medial</h4>
+<a href="../vr/curve141.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/141A.png" class="foto" alt="Fractal de árvore de Natal de Hexecontaedro icosacrônico medial"></a>
+ <br>Fractal de árvore de Natal de hexecontaedro icosacrônico medial.
+ <br>
+<hr>
+<h4>72. Icosaedro triâmbico medial</h4>
+<a href="../vr/curve142.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/142A.png" class="foto" alt="Fractal de árvore de Natal de Icosaedro triâmbico medial"></a>
+ <br>Fractal de árvore de Natal de icosaedro triâmbico medial.
+ <br>
+<hr>
+<h4>73. Icosaedro hexakis de Möbius</h4>
+<a href="../vr/curve143.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/143A.png" class="foto" alt="Fractal de árvore de Natal de Icosaedro hexakis de Möbius"></a>
+ <br>Fractal de árvore de Natal de icosaedro hexakis de Möbius.
+ <br>
+<hr>
+<h4>74. Dodecaedro 10-akis de Möbius</h4>
+<a href="../vr/curve144.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/144A.png" class="foto" alt="Fractal de árvore de Natal de Dodecaedro 10-akis de Möbius"></a>
+ <br>Fractal de árvore de Natal de dodecaedro 10-akis de Möbius.
+ <br>
+<hr>
+
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/pt-br/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.

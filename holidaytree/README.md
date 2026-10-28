@@ -323,6 +323,95 @@ The holiday tree fractal curve was created by Jeffrey Ventrella in 2019. It is a
  <br>Pine nut holiday tree fractal.
  <br>
 <hr>
+<h4>58. Möbius deltahedron</h4>
+<a href="vr/curve128.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/128A.png" class="foto" alt="Möbius deltahedron holiday tree fractal"></a>
+ <br>Möbius deltahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>59. Möbius octakis hexahedron</h4>
+<a href="vr/curve129.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/129A.png" class="foto" alt="Möbius octakis hexahedron holiday tree fractal"></a>
+ <br>Möbius octakis hexahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>60. Möbius hexakis octahedron</h4>
+<a href="vr/curve130.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/130A.png" class="foto" alt="Möbius hexakis octahedron holiday tree fractal"></a>
+ <br>Möbius hexakis octahedron holiday tree fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>61. Möbius hexakis icosahedron</h4>
+<a href="vr/curve131.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/131A.png" class="foto" alt="Möbius hexakis icosahedron holiday tree fractal"></a>
+ <br>Möbius hexakis icosahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>62. Möbius 10-akis dodecahedron</h4>
+<a href="vr/curve132.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/132A.png" class="foto" alt="Möbius 10-akis dodecahedron holiday tree fractal"></a>
+ <br>Möbius 10-akis dodecahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>63. Disdyakis dodecahedron</h4>
+<a href="vr/curve133.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/133A.png" class="foto" alt="Disdyakis dodecahedron holiday tree fractal"></a>
+ <br>Disdyakis dodecahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>64. Escher solid</h4>
+<a href="vr/curve134.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/134A.png" class="foto" alt="Escher solid holiday tree fractal"></a>
+ <br>Escher solid holiday tree fractal.
+ <br>
+<hr>
+<h4>65. Great disdyakis dodecahedron</h4>
+<a href="vr/curve135.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/135A.png" class="foto" alt="Great disdyakis dodecahedron holiday tree fractal"></a>
+ <br>Great disdyakis dodecahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>66. Great rhombihexacron</h4>
+<a href="vr/curve136.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/136A.png" class="foto" alt="Great rhombihexacron holiday tree fractal"></a>
+ <br>Great rhombihexacron holiday tree fractal.
+ <br>
+<hr>
+<h4>67. Great stellated dodecahedron</h4>
+<a href="vr/curve137.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/137A.png" class="foto" alt="Great stellated dodecahedron holiday tree fractal"></a>
+ <br>Great stellated dodecahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>68. Great triambic icosahedron</h4>
+<a href="vr/curve138.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/138A.png" class="foto" alt="Great triambic icosahedron holiday tree fractal"></a>
+ <br>Great triambic icosahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>69. Heptagrammic dipyramid</h4>
+<a href="vr/curve139.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/139A.png" class="foto" alt="Heptagrammic dipyramid holiday tree fractal"></a>
+ <br>Heptagrammic dipyramid holiday tree fractal.
+ <br>
+<hr>
+<h4>70. Medial deltoidal hexecontahedron</h4>
+<a href="vr/curve140.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/140A.png" class="foto" alt="Medial deltoidal hexecontahedron holiday tree fractal"></a>
+ <br>Medial deltoidal hexecontahedron holiday tree fractal.
+ <br>
+<hr>
+<p class="topop"><a href="#p1" class="topo">back to top</a></p>
+<h4>71. Medial icosacronic hexecontahedron</h4>
+<a href="vr/curve141.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/141A.png" class="foto" alt="Medial icosacronic hexecontahedron holiday tree fractal"></a>
+ <br>Medial icosacronic hexecontahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>72. Medial triambic icosahedron</h4>
+<a href="vr/curve142.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/142A.png" class="foto" alt="Medial triambic icosahedron holiday tree fractal"></a>
+ <br>Medial triambic icosahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>73. Möbius hexakis icosahedron</h4>
+<a href="vr/curve143.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/143A.png" class="foto" alt="Möbius hexakis icosahedron holiday tree fractal"></a>
+ <br>Möbius hexakis icosahedron holiday tree fractal.
+ <br>
+<hr>
+<h4>74. Möbius 10-akis dodecahedron</h4>
+<a href="vr/curve144.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/144A.png" class="foto" alt="Möbius 10-akis dodecahedron holiday tree fractal"></a>
+ <br>Möbius 10-akis dodecahedron holiday tree fractal.
+ <br>
+<hr>
+
+
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Holiday tree curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/holidaytree/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
