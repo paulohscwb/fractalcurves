@@ -86,9 +86,9 @@ The snowflake curve is a variation of the Koch snowflake. Six segments have the 
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">back to top</a></p>
-<h4>11. Truncated great icosahedron</h4>
-<a href="vr/curve52.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Truncated great icosahedron snowflake curve fractal"></a>
- <br>Truncated great icosahedron snowflake curve fractal.
+<h4>11. Klein map</h4>
+<a href="vr/curve52.htm" target="_blank" title="3D model" class="fotoA"><img src="ar/52A.png" class="foto" alt="Klein map snowflake curve fractal"></a>
+ <br>Klein map snowflake curve fractal.
  <br>
 <hr>
 <h4>12. Great disdyakis triacontahedron</h4>

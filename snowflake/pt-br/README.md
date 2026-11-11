@@ -86,9 +86,9 @@ function urlHandler(value) {
  <br>
 <hr>
 <p class="topop"><a href="#p1" class="topo">voltar ao topo</a></p>
-<h4>11. Grande icosaedro truncado</h4>
-<a href="../vr/curve52.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="fractal de curva de floco de neve do Grande icosaedro truncado"></a>
- <br>Fractal de curva de floco de neve do grande icosaedro truncado.
+<h4>11. Mapa de Klein</h4>
+<a href="../vr/curve52.htm" target="_blank" title="modelo 3D" class="fotoA"><img src="../ar/52A.png" class="foto" alt="fractal de curva de floco de neve do Mapa de Klein"></a>
+ <br>Fractal de curva de floco de neve do mapa de Klein.
  <br>
 <hr>
 <h4>12. Grande triacontaedro disdiakis</h4>
