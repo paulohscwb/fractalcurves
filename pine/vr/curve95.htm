@@ -34,7 +34,7 @@
 		<a-light type="point" color="yellow" intensity="1"></a-light>
 		<a-entity scale="3 3 3" rotation="0 0 0" position="0 -2 0">
 			<a-entity scale="1 1 1" id="nivel0">
-				<a-entity mixin="mtl4" rotation="0 0 0"><a-entity mixin="ar"></a-entity></a-entity>
+				<a-entity mixin="mtl4" rotation="0 90 0"><a-entity mixin="ar"></a-entity></a-entity>
 			</a-entity>
 			<a-entity scale="0.7071 0.7071 0.7071" id="nivel1" visible="false">
 				<a-entity mixin="mtl4 p1a"><a-entity mixin="ar"></a-entity></a-entity>
@@ -2145,8 +2145,8 @@
 		<a-sky color="#f8fff0"></a-sky>
     </a-scene>
 	<div class="box">
-		<span class="titulo">Eve's fractal dragon</span>
-		<br><span class="titulo">Dragão fractal de Eve</span>
+		<span class="titulo">Pine tree curve fractal</span>
+		<br><span class="titulo">Fractal da curva de pinheiro</span>
 		<hr><input type="checkbox" id="arestas" checked onclick="marestas()">edges&nbsp;&nbsp;|&nbsp;&nbsp;<label for="rangevalue">order: </label><output id="rangevalue">0</output>
 		<br><input type="range" id="nv" min="0" max="4" step="1" value="0" onchange="rangevalue.value=value; mnivel()">
 	</div>

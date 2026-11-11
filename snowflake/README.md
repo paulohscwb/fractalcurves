@@ -147,7 +147,7 @@ The snowflake curve is a variation of the Koch snowflake. Six segments have the 
 <br><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Snowflake curve fractals with polyhedra: visualization with Virtual Reality</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/fractalcurves/snowflake/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> is licensed with a license <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
 
 <h4>How to cite this work:</h4> 
-<p>Siqueira, P.H., "Snowflake curve fractals with polyhedra: visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/fractalcurves/snowflake/>, February 2026.</p>
+<p>Siqueira, P.H., "Snowflake curve fractals with polyhedra: visualization with Virtual Reality". Available in: <https://paulohscwb.github.io/fractalcurves/snowflake/>, November 2026.</p>
 <!--<a target="_blank" href="https://doi.org/10.5281/zenodo.14502405"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14502405.svg" alt="DOI"></a>-->
 <br><br><b>References:</b>
 <br>Ventrella, Jeffrey. "Fractal curves". <a href="http://fractalcurves.com/" target="_blank">http://fractalcurves.com/</a>
