@@ -14,6 +14,9 @@
 		<option value="../levy/">Lévy curve</option>
 		<option disabled value="../apple/">Apple curve</option>
 		<option value="../holidaytree/">Holiday Tree curve</option>
+		<option value="../holidaytree/">Holiday Tree curve</option>
+		<option value="../pine/">Pine tree curve</option>
+		<option value="../snowflake/">Snowflake curve</option>
 	</select>
 </form>
 <script>

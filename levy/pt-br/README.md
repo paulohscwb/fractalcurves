@@ -14,6 +14,8 @@
 		<option disabled value="../../levy/pt-br/">Curva de Lévy</option>
 		<option value="../../apple/pt-br/">Curva da maçã</option>
 		<option value="../../holidaytree/pt-br/">Curva de árvore de Natal</option>
+		<option value="../pine/">Pine tree curve</option>
+		<option value="../snowflake/">Snowflake curve</option>
 	</select>
 </form>
 <script>

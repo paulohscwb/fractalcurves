@@ -15,6 +15,8 @@
 <h3 style="margin-top:3px"><a target="_blank" href="../levy/pt-br/"><img src="../levy/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva de Lévy</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../apple/pt-br/"><img src="../apple/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva da maçã</a></h3>
 <h3 style="margin-top:3px"><a target="_blank" href="../holidaytree/pt-br/"><img src="../holidaytree/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva de árvore de Natal</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../pine/pt-br/"><img src="../pine/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva de pinheiro</a></h3>
+<h3 style="margin-top:3px"><a target="_blank" href="../snowflake/pt-br/"><img src="../snowflake/vr/salas/imagens/icone.png" style="margin-bottom:-10px" width="40"> Curva de floco de neve</a></h3>
 <hr>
 <h2>Modelos anteriores de curvas fractais</h2>
 <h3 style="margin-top:3px"><a target="_blank" href="https://paulohscwb.github.io/polyhedra2/fractalplatonic/pt-br/"><img src="https://paulohscwb.github.io/polyhedra2/fractalplatonic/ar/16A.png" style="margin-bottom:-10px" width="40"> Fractais dos poliedros de Platão</a></h3>

@@ -14,6 +14,8 @@
 		<option value="../../levy/pt-br/">Curva de Lévy</option>
 		<option value="../../apple/pt-br/">Curva da maçã</option>
 		<option value="../../holidaytree/pt-br/">Curva de árvore de Natal</option>
+		<option value="../../pine/pt-br/">Curva de pinheiro</option>
+		<option value="../../snowflake/pt-br/">Curva de floco de neve</option>
 	</select>
 </form>
 <script>
